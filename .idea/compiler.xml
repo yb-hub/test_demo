@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bio_demo" />
         <module name="fastjson_demo" />
+        <module name="filecut_demo" />
         <module name="nio_demo" />
         <module name="udpclient" />
         <module name="udpserver" />
