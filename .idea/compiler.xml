@@ -9,6 +9,7 @@
         <module name="bio_demo" />
         <module name="demo" />
         <module name="fastjson_demo" />
+        <module name="filecut_demo" />
         <module name="nio_demo" />
         <module name="udpclient" />
         <module name="udpserver" />
@@ -20,6 +21,7 @@
       <module name="bio_demo" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="fastjson_demo" options="-parameters" />
+      <module name="filecut_demo" options="-parameters" />
       <module name="netty_demo" options="-parameters" />
       <module name="nio_demo" options="-parameters" />
       <module name="udpclient" options="-parameters" />
