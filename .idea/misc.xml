@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/io_demo/udpclient/pom.xml" />
         <option value="$PROJECT_DIR$/io_demo/udpserver/pom.xml" />
         <option value="$PROJECT_DIR$/netty_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
       </list>
     </option>
   </component>
