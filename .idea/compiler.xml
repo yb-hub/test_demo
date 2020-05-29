@@ -10,6 +10,7 @@
         <module name="demo" />
         <module name="fastjson_demo" />
         <module name="filecut_demo" />
+        <module name="groupchat_demo" />
         <module name="nio_demo" />
         <module name="udpclient" />
         <module name="udpserver" />
