@@ -83,7 +83,7 @@ public class GroupChatServer {
             if (channel instanceof SocketChannel && channel != self) {
                 SocketChannel socketChannel = (SocketChannel) channel;
                 try {
-                    message = socketChannel.getRemoteAddress().toString().substring(1) + "说:" + message;
+                    message = self.getRemoteAddress().toString().substring(1) + "说:" + message;
                     //System.out.println(message);
                     socketChannel.write(ByteBuffer.wrap(message.getBytes()));
                 } catch (IOException e) {
