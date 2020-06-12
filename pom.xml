@@ -12,6 +12,7 @@
         <module>fastjson_demo</module>
         <module>netty_demo</module>
         <module>filecut_demo</module>
+        <module>thread_dmmo</module>
     </modules>
 
 

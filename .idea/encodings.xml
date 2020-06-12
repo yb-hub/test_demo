@@ -12,5 +12,7 @@
     <file url="file://$PROJECT_DIR$/netty_demo/nio_demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty_demo/udpclient" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/netty_demo/udpserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread_dmmo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread_dmmo/threadPool_demo" charset="UTF-8" />
   </component>
 </project>

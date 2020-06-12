@@ -14,6 +14,7 @@
         <module name="groupchat_demo" />
         <module name="netty" />
         <module name="nio_demo" />
+        <module name="threadPool_demo" />
         <module name="udpclient" />
         <module name="udpserver" />
       </profile>
@@ -29,6 +30,8 @@
       <module name="netty" options="-parameters" />
       <module name="netty_demo" options="-parameters" />
       <module name="nio_demo" options="-parameters" />
+      <module name="threadPool_demo" options="-parameters" />
+      <module name="thread_dmmo" options="-parameters" />
       <module name="udpclient" options="-parameters" />
       <module name="udpserver" options="-parameters" />
     </option>
