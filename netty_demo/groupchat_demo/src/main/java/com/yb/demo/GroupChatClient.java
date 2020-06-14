@@ -46,6 +46,7 @@ public class GroupChatClient {
 
     private void reciveMessage() {
         try {
+                //selector.wakeup();
                 int count = selector.select();
                 if(count > 0){
                     Set<SelectionKey> selectionKeys = selector.selectedKeys();
@@ -58,6 +59,7 @@ public class GroupChatClient {
                             channel.read(byteBuffer);
                             System.out.println(new String(byteBuffer.array()));
                         }
+                        iterator.remove();
                     }
                 }
         } catch (IOException e) {
