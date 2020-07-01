@@ -13,6 +13,7 @@
         <module>netty_demo</module>
         <module>filecut_demo</module>
         <module>thread_dmmo</module>
+        <module>concurrent_demo</module>
     </modules>
 
 
