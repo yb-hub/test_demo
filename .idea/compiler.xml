@@ -13,6 +13,7 @@
         <module name="fastjson_demo" />
         <module name="filecut_demo" />
         <module name="groupchat_demo" />
+        <module name="java8_demo" />
         <module name="netty" />
         <module name="nio_demo" />
         <module name="threadPool_demo" />
@@ -29,6 +30,7 @@
       <module name="fastjson_demo" options="-parameters" />
       <module name="filecut_demo" options="-parameters" />
       <module name="groupchat_demo" options="-parameters" />
+      <module name="java8_demo" options="-parameters" />
       <module name="netty" options="-parameters" />
       <module name="netty_demo" options="-parameters" />
       <module name="nio_demo" options="-parameters" />

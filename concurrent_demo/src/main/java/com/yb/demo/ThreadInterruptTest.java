@@ -58,5 +58,4 @@ public class ThreadInterruptTest {
         thread1.interrupt();
         thread2.interrupt();
     }
-
 }

@@ -17,7 +17,7 @@ public class SynchronizedTest {
         number ++;
     }
 
-    public  void read(){
+    public void read(){
         System.out.println(number);
     }
     public static void main(String[] args) {

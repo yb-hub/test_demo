@@ -1,5 +1,8 @@
 package com.yb.demo;
 
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Hashtable;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.LinkedBlockingDeque;
 import java.util.concurrent.ThreadPoolExecutor;
@@ -14,6 +17,12 @@ import java.util.concurrent.atomic.AtomicLong;
 public class Test {
     static Long count = new Long(0);
     public static void main(String[] args) {
+
+        ArrayList<Object> list = new ArrayList<>();
+        HashMap<Object, Object> map = new HashMap<>();
+        Hashtable<Object, Object> table = new Hashtable<>();
+        Object key = map.get("key");
+        Object put = map.put("key", "test");
 
         int n1 = 0x2211 & 0xffff;
 
