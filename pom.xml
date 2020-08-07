@@ -15,6 +15,7 @@
         <module>thread_dmmo</module>
         <module>concurrent_demo</module>
         <module>java8_demo</module>
+        <module>测试题</module>
     </modules>
 
 
