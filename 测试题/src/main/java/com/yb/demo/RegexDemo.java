@@ -18,6 +18,7 @@ public class RegexDemo {
          * \1比配第一个括号中的结果，\2匹配第二个括号中的结果
          * {2}表示之前的一个字符重复两次
          * {2,}表示至少重复2次
+         * $1表示获取第一个括号中的值 $2表示获取第二个括号中的值（后向引用）
          */
         String result = str.replaceAll("([a-z])\\1{2,}", "$1$1");
         //System.out.println(result);
