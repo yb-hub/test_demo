@@ -7,9 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="AES_demo" />
         <module name="bio_demo" />
+        <module name="common_demo" />
         <module name="concurrent_demo" />
         <module name="demo" />
+        <module name="excel_demo" />
         <module name="fastjson_demo" />
         <module name="filecut_demo" />
         <module name="groupchat_demo" />
@@ -25,9 +28,12 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AES_demo" options="-parameters" />
       <module name="bio_demo" options="-parameters" />
+      <module name="common_demo" options="-parameters" />
       <module name="concurrent_demo" options="-parameters" />
       <module name="demo" options="-parameters" />
+      <module name="excel_demo" options="-parameters" />
       <module name="fastjson_demo" options="-parameters" />
       <module name="filecut_demo" options="-parameters" />
       <module name="groupchat_demo" options="-parameters" />

@@ -16,6 +16,9 @@
         <module>concurrent_demo</module>
         <module>java8_demo</module>
         <module>测试题</module>
+        <module>AES_demo</module>
+        <module>excel_demo</module>
+        <module>common_demo</module>
     </modules>
 
 
