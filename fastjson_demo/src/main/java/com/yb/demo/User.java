@@ -1,6 +1,5 @@
 package com.yb.demo;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 /**
@@ -9,8 +8,13 @@ import lombok.Data;
  * @data 2020/5/19
  */
 @Data
-@AllArgsConstructor
+//@AllArgsConstructor
+//@NoArgsConstructor
 public class User {
     private String name;
     private int age;
+
+    public User(String name){
+        this.name = name;
+    }
 }

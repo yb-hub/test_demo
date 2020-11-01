@@ -14,10 +14,16 @@
         <module>filecut_demo</module>
         <module>thread_dmmo</module>
         <module>concurrent_demo</module>
+        <module>java8_demo</module>
+        <module>测试题</module>
+        <module>AES_demo</module>
+        <module>excel_demo</module>
+        <module>common_demo</module>
     </modules>
 
-
-
+    <properties>
+        <common-version>1.0-SNAPSHOT</common-version>
+    </properties>
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -37,6 +43,13 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!--common-demo-->
+        <dependency>
+            <groupId>com.yb.demo</groupId>
+            <artifactId>common_demo</artifactId>
+            <version>${common-version}</version>
         </dependency>
     </dependencies>
 

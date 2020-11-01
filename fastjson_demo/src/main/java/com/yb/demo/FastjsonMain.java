@@ -14,7 +14,9 @@ import java.util.List;
 public class FastjsonMain {
     public static void main(String[] args) {
 
-        User user = new User("yang", 18);
+        //User user = new User("yang", 18);
+        User user = new User("yang");
+        user.setAge(1);
         ArrayList<User> userList = new ArrayList<User>();
         userList.add(user);
 
