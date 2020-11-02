@@ -58,7 +58,7 @@ public class GroupChatServer {
                             SocketChannel channel = (SocketChannel) selectionKey.channel();
                             ByteBuffer byteBuffer = ByteBuffer.allocate(1024);
                             channel.read(byteBuffer);
-                            //System.out.println("接收到数据：" + new String(byteBuffer.array()));
+                            System.out.println("接收到数据：" + new String(byteBuffer.array()));
                             // 群发给其他客户端
                             sentMessage2Others(new String(byteBuffer.array()), channel);
                         }
