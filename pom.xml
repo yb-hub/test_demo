@@ -19,6 +19,7 @@
         <module>AES_demo</module>
         <module>excel_demo</module>
         <module>common_demo</module>
+        <module>leetcode</module>
     </modules>
 
     <properties>

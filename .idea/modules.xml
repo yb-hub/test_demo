@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" filepath="$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/io_demo.iml" filepath="$PROJECT_DIR$/netty_demo/io_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8_demo/java8_demo.iml" filepath="$PROJECT_DIR$/java8_demo/java8_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/netty/netty.iml" filepath="$PROJECT_DIR$/netty_demo/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" filepath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_demo.iml" filepath="$PROJECT_DIR$/test_demo.iml" />

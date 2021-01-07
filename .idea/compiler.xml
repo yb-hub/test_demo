@@ -16,6 +16,7 @@
         <module name="filecut_demo" />
         <module name="groupchat_demo" />
         <module name="java8_demo" />
+        <module name="leetcode" />
         <module name="netty" />
         <module name="nio_demo" />
         <module name="threadPool_demo" />
@@ -34,6 +35,7 @@
       <module name="groupchat_demo" target="1.8" />
       <module name="io_demo" target="1.8" />
       <module name="java8_demo" target="1.8" />
+      <module name="leetcode" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="nio_demo" target="1.8" />
       <module name="test_demo" target="1.8" />
@@ -53,6 +55,7 @@
       <module name="filecut_demo" options="-parameters" />
       <module name="groupchat_demo" options="-parameters" />
       <module name="java8_demo" options="-parameters" />
+      <module name="leetcode" options="-parameters" />
       <module name="netty" options="-parameters" />
       <module name="nio_demo" options="-parameters" />
       <module name="threadPool_demo" options="-parameters" />
