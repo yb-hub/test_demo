@@ -14,7 +14,7 @@ import java.net.Socket;
 @Slf4j
 public class BioClient {
     public static void main(String[] args) {
-        for (int i = 0; i < 2; i++) {
+        for (int i = 0; i < 20; i++) {
             createClient("127.0.0.1",8001);
         }
     }
