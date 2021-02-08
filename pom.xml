@@ -20,6 +20,8 @@
         <module>excel_demo</module>
         <module>common_demo</module>
         <module>leetcode</module>
+        <module>jvm_demo</module>
+        <module>plugins_demo1</module>
     </modules>
 
     <properties>

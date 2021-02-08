@@ -1,0 +1,22 @@
+
+E
+java:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ™õ‚ø.
+a
+java:S21473"DCombine this catch with the one at line 49, which has the same body.(¯áè8İ™õ‚ø.
+c
+java:S2259."AA "NullPointerException" could be thrown; "adp" is nullable here.(ö¨ÒĞøÿÿÿÿ8‚¡û‚ø.
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8°ş×‚ø.
+L
+java:S3740"/Provide the parametrized type for this generic.(·šİì8Ï¶‚ş÷.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ÍŞÿÿÿÿÿ
+e
+java:S1128"CRemove this unused import 'org.springframework.util.ResourceUtils'.(Š’Ğ¦úÿÿÿÿ8åõ“ø.
+m
+java:S1128"PRemove this unused import 'com.fasterxml.jackson.annotation.ObjectIdGenerators'.(èîí8²ÎÒ‚ø.
+]
+java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ8Ş¯©‚ø.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûæ—£ÿÿÿÿÿ8™ï©ø.
+L
+java:S3740$"/Provide the parametrized type for this generic.(÷õ¼8Í’¦‚ø.
+E
+java:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ™õ‚ø.

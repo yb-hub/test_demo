@@ -13,9 +13,12 @@
       <module fileurl="file://$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" filepath="$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/io_demo.iml" filepath="$PROJECT_DIR$/netty_demo/io_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/java8_demo/java8_demo.iml" filepath="$PROJECT_DIR$/java8_demo/java8_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm_demo/jvm_demo.iml" filepath="$PROJECT_DIR$/jvm_demo/jvm_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/netty/netty.iml" filepath="$PROJECT_DIR$/netty_demo/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" filepath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugin_demo2/plugin_demo2.iml" filepath="$PROJECT_DIR$/plugin_demo2/plugin_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugins_demo/plugins_demo.iml" filepath="$PROJECT_DIR$/plugins_demo/plugins_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_demo.iml" filepath="$PROJECT_DIR$/test_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" filepath="$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" filepath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" />
