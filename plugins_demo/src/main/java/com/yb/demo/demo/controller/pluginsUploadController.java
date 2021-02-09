@@ -1,13 +1,16 @@
 package com.yb.demo.demo.controller;
 
 import com.yb.demo.demo.plugin.IProtocolAdapter;
+import com.yb.demo.demo.plugin.PluginManager;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 import java.io.File;
 import java.io.IOException;
+import java.util.Iterator;
 import java.util.Map;
+import java.util.ServiceLoader;
 
 /**
  * @author yb
@@ -29,23 +32,28 @@ public class pluginsUploadController {
 
     @GetMapping("/plugins/test")
     public Map testPlugins(String pluginsType){
-        String clazzName = pluginsType+"plugin";
-        //通过反射获取实体类
-        try {
-            Class<?> aClass = Class.forName(clazzName);
-            Object adapter = aClass.newInstance();
-            IProtocolAdapter adp = null;
-            if(adapter instanceof IProtocolAdapter){
-                adp = (IProtocolAdapter) adapter;
-            }
-            adp.decode();
-        } catch (ClassNotFoundException e) {
-            System.out.println(e.getMessage());
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (InstantiationException e) {
-            e.printStackTrace();
+        IProtocolAdapter service = loadDemoPlugin();
+        if ( service == null) {
+            System.out.print("no demo plugin service found");
+        } else {
+            service.decode();
+            service.encode();
         }
-        return null;
+        return  null;
+    }
+
+    public static IProtocolAdapter loadDemoPlugin() {
+        IProtocolAdapter ret = null;
+        ClassLoader loader = PluginManager.getInstance().getLoader();
+        if (loader != null) {
+            ServiceLoader<IProtocolAdapter> demoServiceLoader = ServiceLoader.load(IProtocolAdapter.class,loader);
+            Iterator<IProtocolAdapter> it = demoServiceLoader.iterator();
+            while (it.hasNext()) {
+                ret = it.next();
+                System.out.println("new demo plugin found: " + ret.getClass().getName());
+            }
+
+        }
+        return ret;
     }
 }
