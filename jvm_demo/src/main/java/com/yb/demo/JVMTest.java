@@ -12,7 +12,7 @@ import org.slf4j.LoggerFactory;
 public class JVMTest {
     //System.out.println(111);循环一百万次大概2s 无打印语句几乎0s
 
-    private static Logger logger = LoggerFactory.getLogger(JVMTest.class);
+    //private static Logger logger = LoggerFactory.getLogger(JVMTest.class);
 
     public static void main(String[] args) throws InterruptedException {
         int i = 0;

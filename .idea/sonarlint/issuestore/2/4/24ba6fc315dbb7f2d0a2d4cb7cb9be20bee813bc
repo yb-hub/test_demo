@@ -1,0 +1,11 @@
+
+Z
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ò©·Ù
+>
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+R
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "socket".(ò©·Ù
+A
+java:S1481"+Remove this unused "socket" local variable.(ò©·Ù

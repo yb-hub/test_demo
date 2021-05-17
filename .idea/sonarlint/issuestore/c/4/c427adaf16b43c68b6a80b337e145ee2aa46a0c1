@@ -1,0 +1,27 @@
+
+\
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(•¶•¦ıÿÿÿÿ
+>
+java:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+W
+java:S3457k"AFormat specifiers should be used instead of string concatenation.(ö‡ùã
+>
+java:S1148&"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+L
+java:S2629|"7Use the built-in formatting to construct this argument.(ğéà~
+g
+java:S3008"QRename this field "LOGGER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üëéÔ
+u
+java:S3008"ZRename this field "CONF_PROPERTIES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø³ŞÏÿÿÿÿÿ
+W
+java:S3457"AFormat specifiers should be used instead of string concatenation.(ö‡ùã
+E
+java:S2093B"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+V
+java:S3457|"AFormat specifiers should be used instead of string concatenation.(ğéà~
+>
+java:S1148I"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+\
+java:S3457G"AFormat specifiers should be used instead of string concatenation.(Ä£óùÿÿÿÿ
+X
+java:S1126‹"AReplace this if-then-else statement by a single return statement.(öè¦

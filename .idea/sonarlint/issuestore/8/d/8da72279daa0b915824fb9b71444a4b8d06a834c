@@ -1,22 +1,16 @@
 
-E
-java:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ™õ‚ø.
-a
-java:S21473"DCombine this catch with the one at line 49, which has the same body.(¯áè8İ™õ‚ø.
-c
-java:S2259."AA "NullPointerException" could be thrown; "adp" is nullable here.(ö¨ÒĞøÿÿÿÿ8‚¡û‚ø.
-Z	java:S1060"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ8°ş×‚ø.
-L
-java:S3740"/Provide the parametrized type for this generic.(·šİì8Ï¶‚ş÷.
+H
+java:S1075""&Remove this hard-coded path-delimiter.(«ñúÿÿÿÿ8í‡Õ”ÿ.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(Àçß”ÿÿÿÿÿ8‚ÛÂ”ÿ.
+E	java:S108%")Either remove or fill this block of code.(ï­£Ä8’ÚÖ”ÿ.
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(¤óóÏ8‚ÛÂ”ÿ.
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‚ÍŞÿÿÿÿÿ
-e
-java:S1128"CRemove this unused import 'org.springframework.util.ResourceUtils'.(Š’Ğ¦úÿÿÿÿ8åõ“ø.
-m
-java:S1128"PRemove this unused import 'com.fasterxml.jackson.annotation.ObjectIdGenerators'.(èîí8²ÎÒ‚ø.
-]
-java:S1128"ARemove this unused import 'org.springframework.util.StringUtils'.(Ğôÿ8Ş¯©‚ø.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûæ—£ÿÿÿÿÿ8™ï©ø.
+Q
+java:S3740"/Provide the parametrized type for this generic.(Õ‰Ÿ†ÿÿÿÿÿ8Ï¶‚ş÷.
 L
-java:S3740$"/Provide the parametrized type for this generic.(÷õ¼8Í’¦‚ø.
-E
-java:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ™õ‚ø.
+java:S3740+"/Provide the parametrized type for this generic.(÷õ¼8Í’¦‚ø.
+U	java:S106."9Replace this use of System.out or System.err by a logger.(´½ğ¶8ÛêÛÿ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ÑÔÇÆÿÿÿÿÿ8ÅÕÃ”ÿ.
+R
+java:S1128
+"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ÛêÛÿ.

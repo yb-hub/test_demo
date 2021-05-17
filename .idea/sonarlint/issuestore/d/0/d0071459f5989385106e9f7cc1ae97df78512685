@@ -1,0 +1,11 @@
+
+V
+java:S1128"@Remove this unused import 'javax.xml.bind.SchemaOutputResolver'.(—­±Ν
+R
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µΚψÿÿÿÿ
+B
+java:S1602",Remove useless curly braces around statement(¥—ύπ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(―±γξÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ρψ»Ώϊÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(―±γξÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‡ψ±ωϋÿÿÿÿ

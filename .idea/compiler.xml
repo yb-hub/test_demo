@@ -15,6 +15,9 @@
         <module name="fastjson_demo" />
         <module name="filecut_demo" />
         <module name="groupchat_demo" />
+        <module name="jarsLink_demo" />
+        <module name="jarslinkmodule" />
+        <module name="jaslindmodule1" />
         <module name="java8_demo" />
         <module name="jvm_demo" />
         <module name="leetcode" />
@@ -37,6 +40,9 @@
       <module name="filecut_demo" target="1.8" />
       <module name="groupchat_demo" target="1.8" />
       <module name="io_demo" target="1.8" />
+      <module name="jarsLink_demo" target="1.8" />
+      <module name="jarslinkmodule" target="1.8" />
+      <module name="jaslindmodule1" target="1.8" />
       <module name="java8_demo" target="1.8" />
       <module name="jvm_demo" target="1.8" />
       <module name="leetcode" target="1.8" />
@@ -61,6 +67,8 @@
       <module name="fastjson_demo" options="-parameters" />
       <module name="filecut_demo" options="-parameters" />
       <module name="groupchat_demo" options="-parameters" />
+      <module name="jarslinkmodule" options="" />
+      <module name="jaslindmodule1" options="-parameters" />
       <module name="java8_demo" options="-parameters" />
       <module name="jvm_demo" options="-parameters" />
       <module name="leetcode" options="-parameters" />

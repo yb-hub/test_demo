@@ -1,0 +1,6 @@
+
+Y
+java:S1481"<Remove this unused "pluginsUploadController" local variable.(”ğÆ›8²¿²Á/
+h
+java:S1854"KRemove this useless assignment to local variable "pluginsUploadController".(”ğÆ›8²¿²Á/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(íƒ‹×ùÿÿÿÿ8²¿²Á/

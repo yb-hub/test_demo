@@ -2,25 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a0531b4-3b5a-4903-aaf7-3119eb97bf7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__4_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/plugins/SecondPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/FirstPlugin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jarslinkmodule/src/main/resources/jarslinkmodule.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClinitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ConstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/NotInitialization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SuperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/byteTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/IsMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/LongestPalindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2efcb88eda6d6d395ddb201ce9e03219cd1eda15" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2efcb88eda6d6d395ddb201ce9e03219cd1eda15" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/804f945e500ce5db629e8d7dfe3797628b894504" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/0/804f945e500ce5db629e8d7dfe3797628b894504" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06d454f589aab2084266404fb235b9108d932924" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06d454f589aab2084266404fb235b9108d932924" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41fe322429f695d65f74bf99f851d69ffe2a32ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8da72279daa0b915824fb9b71444a4b8d06a834c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8da72279daa0b915824fb9b71444a4b8d06a834c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/940b0e7fd4c2f1b9aba71b2a5f62b03112b6a2c6" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/JarsLinkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/JarsLinkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/ModuleRefreshSchedulerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/ModuleRefreshSchedulerImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/JVMTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/JVMTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins_demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/plugins_demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins_demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/plugins_demo/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/netty_demo/netty/target/" />
     <ignored path="$PROJECT_DIR$/netty_demo/nio_demo/target/" />
@@ -44,6 +57,8 @@
     <ignored path="$PROJECT_DIR$/plugins_demo/target/" />
     <ignored path="$PROJECT_DIR$/plugins_demo1/target/" />
     <ignored path="$PROJECT_DIR$/plugin_demo2/target/" />
+    <ignored path="$PROJECT_DIR$/jarsLink_demo/target/" />
+    <ignored path="$PROJECT_DIR$/jarslinkmodule/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,105 +68,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin_demo2/pom.xml">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClinitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common_demo/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-            </state>
-          </provider>
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/plugins/SecondPlugin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="-25">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
-                <element signature="e#232#233#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SuperClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="175">
+              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            <state relative-caret-position="350">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/LongestPalindrome.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="543">
+              <caret line="94" column="1" lean-forward="true" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#244#245#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ConstClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/IsMatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+            <state relative-caret-position="519">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/byteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1175">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#methodD#0;class#byteTest#0" />
+                <element signature="method#methodE#0;class#byteTest#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SubClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/PluginDemo2Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/FirstPlugin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="250">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -168,6 +180,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>props</find>
+      <find>sort</find>
+      <find>thresholdReached</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -183,31 +197,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestApplication.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" />
-        <option value="$PROJECT_DIR$/../参数解析.md" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/参数解析.md" />
-        <option value="$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioServer.java" />
         <option value="$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioClient.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Person.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/Student.java" />
-        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" />
-        <option value="$PROJECT_DIR$/plugins_demo/pom.xml" />
         <option value="$PROJECT_DIR$/plugins_demo1/src/main/java/com/yb/demo/demo/plugin/SecondPlugin.java" />
         <option value="$PROJECT_DIR$/plugins_demo1/pom.xml" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin_demo2/SecondPlugin.java" />
-        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/FirstPlugin.java" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin_demo2/plugins/SecondPlugin.java" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin_demo2/PluginDemo2Application.java" />
         <option value="$PROJECT_DIR$/plugin_demo2/pom.xml" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/plugins/SecondPlugin.java" />
-        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java" />
         <option value="$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/PluginDemo2Application.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/resources/META-INF.services/plugin.IProtocolAdapter" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/FirstPlugin.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/PluginManager.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/SecondPlugin.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/resources/META-INF/services/com.yb.demo.demo.plugin.IProtocolAdapter" />
+        <option value="$PROJECT_DIR$/plugins_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/resources/jarslink.xml" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/src/main/resources/META-INF/spring/jarslink-demo-action.xml" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/src/main/java/com/yb/jarslinkmodule/jarsLinkModule1.java" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/src/main/java/com/yb/jarslinkmodule/module/jarsLinkModule1.java" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/config/jarsLinkModule1.java" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/DemoApplication.java" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/JarsLinkTest.java" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/ModuleRefreshSchedulerImpl.java" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/src/main/resources/jarslinkmodule.xml" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/PropertiesUtil.java" />
         <option value="$PROJECT_DIR$/plugins_demo/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SuperClass.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SubClass.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/NotInitialization.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" />
+        <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java" />
         <option value="$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java" />
+        <option value="$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioServer.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClassLoaderTest.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String1.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTest.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/byteTest.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClinitTest.java" />
+        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ConstClass.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/IsMatch.java" />
       </list>
     </option>
   </component>
@@ -228,29 +268,15 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plugin_demo2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="plugin_demo2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="test_demo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="288" />
-    <option name="y" value="6" />
-    <option name="width" value="1637" />
-    <option name="height" value="1035" />
+    <option name="x" value="-238" />
+    <option name="y" value="19" />
+    <option name="width" value="1665" />
+    <option name="height" value="1029" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -258,7 +284,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -270,115 +295,48 @@
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin_demo2" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="plugins_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -390,7 +348,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1612776442095" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1621254173429" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -403,7 +361,15 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\lib" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yb.demo.demo.controller" />
+      <recent name="com.yb.demo.config" />
+      <recent name="com.yb.demo.demo.plugin" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86178\Desktop\test_demo\jvm_demo\src\main\java\com\yb\demo" />
+      <recent name="C:\Users\86178\Desktop\test_demo\jarsLink_demo\src\main\resources" />
+      <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\src\main\resources\META-INF\services" />
       <recent name="C:\Users\86178\Desktop\test_demo\demo\src\main\java\com\example\demo" />
     </key>
   </component>
@@ -419,35 +385,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.DemoApplication">
-    <configuration name="BioClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.BioClient" />
-      <module name="bio_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BioServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.BioServer" />
-      <module name="bio_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JVMTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.JVMTest" />
+  <component name="RunManager" selected="Application.IsMatch">
+    <configuration name="ConstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.ConstClass" />
       <module name="jvm_demo" />
       <extension name="coverage">
         <pattern>
@@ -459,12 +399,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.demo.Student" />
-      <module name="demo" />
+    <configuration name="IsMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.IsMatch" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="PATTERN" value="com.yb.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,9 +412,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.LongestPalindrome" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.StringTest" />
+      <module name="jvm_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="byteTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.byteTest" />
+      <module name="jvm_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yb.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jarsLink_demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="plugins_demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JarslinkmoduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jarslinkmodule" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.jarslinkmodule.JarslinkmoduleApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -493,36 +486,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.TestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Spring Boot.DemoApplication" />
       <item itemvalue="Spring Boot.PluginDemo2Application" />
-      <item itemvalue="Spring Boot.TestApplication" />
-      <item itemvalue="Application.BioServer" />
-      <item itemvalue="Application.BioClient" />
-      <item itemvalue="Application.Student" />
-      <item itemvalue="Application.JVMTest" />
       <item itemvalue="Spring Boot.PluginDemo2Application (1)" />
+      <item itemvalue="Spring Boot.DemoApplication (1)" />
+      <item itemvalue="Spring Boot.JarslinkmoduleApplication" />
+      <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.byteTest" />
+      <item itemvalue="Application.LongestPalindrome" />
+      <item itemvalue="Application.ConstClass" />
+      <item itemvalue="Application.IsMatch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JVMTest" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.BioClient" />
-        <item itemvalue="Application.BioServer" />
-        <item itemvalue="Spring Boot.TestApplication" />
+        <item itemvalue="Application.IsMatch" />
+        <item itemvalue="Application.ConstClass" />
+        <item itemvalue="Application.LongestPalindrome" />
+        <item itemvalue="Application.byteTest" />
+        <item itemvalue="Application.StringTest" />
       </list>
     </recent_temporary>
   </component>
@@ -551,18 +533,38 @@
       <workItem from="1611038380606" duration="5265000" />
       <workItem from="1612406915639" duration="43000" />
       <workItem from="1612755818176" duration="8243000" />
-      <workItem from="1612774185268" duration="2251000" />
+      <workItem from="1612774185268" duration="17675000" />
+      <workItem from="1613609960489" duration="6010000" />
+      <workItem from="1613696765468" duration="39787000" />
+      <workItem from="1614667934844" duration="2478000" />
+      <workItem from="1614820815917" duration="591000" />
+      <workItem from="1614927122284" duration="1912000" />
+      <workItem from="1615364360720" duration="14669000" />
+      <workItem from="1616375853221" duration="546000" />
+      <workItem from="1617342452344" duration="14766000" />
+      <workItem from="1617929203902" duration="1193000" />
+      <workItem from="1618195574127" duration="561000" />
+      <workItem from="1618276362344" duration="581000" />
+      <workItem from="1618534481973" duration="961000" />
+      <workItem from="1619399804940" duration="3337000" />
+      <workItem from="1619423783952" duration="7072000" />
+      <workItem from="1619753120357" duration="2034000" />
+      <workItem from="1620263537336" duration="1232000" />
+      <workItem from="1620267754665" duration="870000" />
+      <workItem from="1620269546242" duration="23992000" />
+      <workItem from="1620608108587" duration="4831000" />
+      <workItem from="1621213078180" duration="18047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90416000" />
+    <option name="totallyTimeSpent" value="251310000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="288" y="6" width="1637" height="1035" extended-state="0" />
+    <frame x="-238" y="19" width="1665" height="1029" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.27837667" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.16074766" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.21428572" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -572,30 +574,31 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3043478" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2753623" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2724138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.259009" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29223743" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33549222" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32995495" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32744405" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="SonarLint" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.26512155" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.55490404" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
-      <window_info anchor="right" id="ASM" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3292964" />
+      <window_info anchor="right" id="ASM" order="6" weight="0.32889125" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.4505194" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
@@ -792,23 +795,95 @@
           <properties />
           <option name="timeStamp" value="85" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.13.RELEASE/spring-webmvc-4.3.13.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodArgumentResolver.java</url>
           <line>200</line>
           <properties />
           <option name="timeStamp" value="87" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioClient.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="88" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioServer.java</url>
           <line>39</line>
           <properties />
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/PluginManager.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/alipay/jarslink/jarslink-api/1.6.1.20180301/jarslink-api-1.6.1.20180301-sources.jar!/com/alipay/jarslink/api/impl/ModuleLoaderImpl.java</url>
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.13.RELEASE/spring-context-4.3.13.RELEASE-sources.jar!/org/springframework/context/annotation/ClassPathScanningCandidateComponentProvider.java</url>
+          <line>277</line>
+          <properties />
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE-sources.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java</url>
+          <line>487</line>
+          <properties />
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE-sources.jar!/org/springframework/core/io/support/PathMatchingResourcePatternResolver.java</url>
+          <line>315</line>
+          <properties />
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/DeferredFileOutputStream.java</url>
+          <line>147</line>
+          <properties />
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.java</url>
+          <line>133</line>
+          <properties />
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/multipart/support/AbstractMultipartHttpServletRequest.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/util/Streams.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/FileUploadBase.java</url>
+          <line>292</line>
+          <properties />
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/util/Streams.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="181" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -826,391 +901,435 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>new InetSocketAddressHolder(
-                        null,
-                        addr == null ? InetAddress.anyLocalAddress() : addr,
-                        checkPort(port))</expression-string>
+        <expression-string>++i9</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>_anyVisible(_fields)</expression-string>
+        <expression-string>i9++</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>prop.anyVisible()</expression-string>
+        <expression-string>item.openStream()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>_addCreators(props)</expression-string>
+        <expression-string>(cl != null ? cl.getResources(path) : ClassLoader.getSystemResources(path))</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>BeanUtil.okNameForRegularGetter(m, m.getName(), _stdBeanNaming)</expression-string>
+        <expression-string>cl.getResources(path)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>_classDef.memberMethods()</expression-string>
+        <expression-string>this.resourcePatternResolver.getResources(packageSearchPath)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>_property(props, implName).addField(f, pn, nameExplicit, visible, ignored)</expression-string>
+        <expression-string>any(overridePackages, new Predicate&lt;String&gt;() {
+            @Override
+            public boolean apply(String prefix) {
+                return name.startsWith(prefix);
+            }
+        })</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>filterBeanProps(ctxt,
-                beanDesc, builder, beanDesc.findProperties(), ignored)</expression-string>
+        <expression-string>applicationContext.getBeansOfType(type).values()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>config.introspect(type)</expression-string>
+        <expression-string>new
+                        ModuleAnnotationApplicationContext(properties);
+                annotationConfigApplicationContext.scan(scanBase.toArray(new String[0]));</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/DualStackPlainSocketImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/org/apache/tomcat/util/http/fileupload/DeferredFileOutputStream.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="282" column="29" lean-forward="true" selection-start-line="282" selection-start-column="22" selection-end-line="282" selection-end-column="29" />
+        <state relative-caret-position="-81" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/ByteArrayOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5265">
+          <caret line="216" column="29" selection-start-line="216" selection-start-column="29" selection-end-line="216" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/SocketImpl.java">
+    <entry file="file://$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/JarsLinkTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3078">
-          <caret line="140" column="28" selection-start-line="140" selection-start-column="28" selection-end-line="140" selection-end-column="28" />
+        <state relative-caret-position="648">
+          <caret line="33" column="40" selection-start-line="33" selection-start-column="40" selection-end-line="33" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/PlainSocketImpl.java">
+    <entry file="file://$PROJECT_DIR$/jarsLink_demo/src/main/java/com/yb/demo/ModuleRefreshSchedulerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="192" column="64" selection-start-line="192" selection-start-column="64" selection-end-line="192" selection-end-column="64" />
+        <state relative-caret-position="1377">
+          <caret line="60" column="64" selection-start-line="51" selection-start-column="6" selection-end-line="60" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/AbstractPlainSocketImpl.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.9.RELEASE/spring-web-5.1.9.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10206">
-          <caret line="408" column="17" selection-start-line="408" selection-start-column="17" selection-end-line="408" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="546" column="67" lean-forward="true" selection-start-line="546" selection-start-column="12" selection-end-line="546" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/Socket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="55" column="37" lean-forward="true" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/concurrent/atomic/AtomicReferenceFieldUpdater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="187" column="13" selection-start-line="187" selection-start-column="13" selection-end-line="187" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/SelectionKey.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="387" column="36" selection-start-line="387" selection-start-column="36" selection-end-line="387" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/nio/ch/SelectorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="111" column="33" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/spi/AbstractSelector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="174" column="36" selection-start-line="174" selection-start-column="36" selection-end-line="174" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/SelectableChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="218" column="56" selection-start-line="218" selection-start-column="56" selection-end-line="218" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/spi/AbstractSelectableChannel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="194" column="32" lean-forward="true" selection-start-line="194" selection-start-column="32" selection-end-line="194" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5400">
-          <caret line="226" column="51" selection-start-line="226" selection-start-column="51" selection-end-line="226" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/nio/channels/spi/SelectorProvider.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5346">
-          <caret line="229" column="37" selection-start-line="229" selection-start-column="37" selection-end-line="229" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="45" column="44" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/nio/ch/DefaultSelectorProvider.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/security/AccessController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7344">
-          <caret line="297" column="31" selection-start-line="297" selection-start-column="31" selection-end-line="297" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/security/PrivilegedAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/nio_demo/src/main/java/com/yb/demo/NioServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/nio_demo/src/main/java/com/yb/demo/NioClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jvm_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/src/main/java/com/example/demo/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="255">
+          <caret line="132" column="31" selection-start-line="132" selection-start-column="31" selection-end-line="132" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#7799#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins_demo/src/test/java/com/yb/demo/demo/DemoApplicationTests.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="213" selection-start-line="213" selection-end-line="213" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.txt" />
-    <entry file="file://$PROJECT_DIR$/com.yb.demo.JVMTest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-486" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java.lang.reflect.Method.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java.util.concurrent.FutureTask.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#10321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/plugins_demo/lib/com.huawei.m2m.cig.tup-1.3.1.jar!/com/huawei/m2m/cig/tup/modules/protocol_adapter/IProtocolAdapter.class" />
-    <entry file="file://$PROJECT_DIR$/plugins_demo1/plugins_demo1.iml" />
-    <entry file="file://$PROJECT_DIR$/plugins_demo1/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/plugins_demo1/src/main/java/com/yb/demo/demo/plugin/SecondPlugin.java" />
-    <entry file="file://$PROJECT_DIR$/plugins_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="33" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin_demo2/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/PluginDemo2Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/plugins/SecondPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/FirstPlugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state relative-caret-position="81">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/ThresholdingOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.13.RELEASE/spring-core-4.3.13.RELEASE-sources.jar!/org/springframework/util/MultiValueMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="69" lean-forward="true" selection-start-line="32" selection-start-column="69" selection-end-line="32" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/connector/RequestFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="380" selection-start-line="380" selection-end-line="380" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2675">
+          <caret line="145" column="5" selection-start-line="145" selection-start-column="5" selection-end-line="145" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#7704#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/DeferredFileOutputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3150">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/multipart/support/AbstractMultipartHttpServletRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2075">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+          <folding>
+            <element signature="e#0#4018#0" expanded="true" />
+            <element signature="e#2586#2587#0" expanded="true" />
+            <element signature="e#2634#2635#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.13.RELEASE/spring-web-4.3.13.RELEASE-sources.jar!/org/springframework/web/multipart/commons/CommonsMultipartFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/util/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="65" column="35" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/FileUploadBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6275">
+          <caret line="292" selection-start-line="292" selection-end-line="292" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/FileItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4550">
+          <caret line="201" column="17" selection-start-line="201" selection-start-column="17" selection-end-line="201" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/tomcat/util/http/fileupload/disk/DiskFileItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11225">
+          <caret line="496" column="24" selection-start-line="496" selection-start-column="24" selection-end-line="496" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23-sources.jar!/org/apache/catalina/connector/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65600">
+          <caret line="2863" selection-start-line="2863" selection-end-line="2863" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/JVMTest.class" />
+    <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/plugins/SecondPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin_demo2/src/main/java/com/yb/demo/plugin/demo/PluginDemo2Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/controller/pluginsUploadController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        <state relative-caret-position="1275">
+          <caret line="63" column="79" selection-start-line="63" selection-start-column="79" selection-end-line="63" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#main#0;class#pluginsUploadController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins_demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/IProtocolAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/ServiceLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12425">
+          <caret line="536" column="57" selection-start-line="536" selection-start-column="57" selection-end-line="536" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3275">
+          <caret line="168" column="17" selection-start-line="168" selection-start-column="12" selection-end-line="168" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins_demo/src/main/java/com/yb/demo/demo/plugin/PluginManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="139" column="19" selection-start-line="139" selection-start-column="19" selection-end-line="139" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_demo/bio_demo/target/classes/com/yb/demo/BioClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_demo/bio_demo/src/main/java/com/yb/demo/BioClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/net/URLClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="466" column="20" selection-start-line="466" selection-start-column="20" selection-end-line="466" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/security/SecureClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="141" column="21" lean-forward="true" selection-start-line="141" selection-start-column="21" selection-end-line="141" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="756" column="29" selection-start-line="756" selection-start-column="29" selection-end-line="756" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/NotInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClassLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2825">
+          <caret line="150" column="11" selection-start-line="150" selection-start-column="11" selection-end-line="150" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/byteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="method#methodD#0;class#byteTest#0" />
+            <element signature="method#methodE#0;class#byteTest#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="94" column="1" lean-forward="true" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SuperClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/SubClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ClinitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-25">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/ConstClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/IsMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
         </state>
       </provider>
     </entry>

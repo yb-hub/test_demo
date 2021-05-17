@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/plugins_demo/pom.xml" />
         <option value="$PROJECT_DIR$/plugin_demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/jarsLink_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jarslinkmodule/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

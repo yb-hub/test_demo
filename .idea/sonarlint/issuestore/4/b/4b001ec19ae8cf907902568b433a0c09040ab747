@@ -1,0 +1,9 @@
+
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÛÙÐÛ
+l
+java:S1128"VRemove this unused import 'org.springframework.boot.autoconfigure.AutoConfigureOrder'.(œ¾ü‰
+J
+java:S3740'"/Provide the parametrized type for this generic.(§íÇ²ûÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›
+V	java:S125"<This block of commented-out lines of code should be removed.(»ïÁŒÿÿÿÿÿ
