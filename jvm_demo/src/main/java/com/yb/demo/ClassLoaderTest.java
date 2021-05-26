@@ -1,5 +1,7 @@
 package com.yb.demo;
 
+import com.sun.java.accessibility.AccessBridge;
+
 /**
  * @author yb
  * @description
@@ -10,13 +12,11 @@ public class ClassLoaderTest {
         //bootStrapClassLoader
         ClassLoader classLoader = Class.forName("java.lang.String").getClassLoader();
         System.out.println(classLoader);
+        //extClassLoader  JAVA_HOME/jre/lib/ext/目录下
+        ClassLoader classLoader1 = AccessBridge.class.getClassLoader();
+        System.out.println(classLoader1);
         //appClassLoader
         ClassLoader contextClassLoader = Thread.currentThread().getContextClassLoader();
         System.out.println(contextClassLoader);
-        //extClassLoader
-        ClassLoader systemClassLoader = ClassLoader.getSystemClassLoader();
-        ClassLoader parent = systemClassLoader.getParent();
-        System.out.println(systemClassLoader);
-        System.out.println(parent);
     }
 }

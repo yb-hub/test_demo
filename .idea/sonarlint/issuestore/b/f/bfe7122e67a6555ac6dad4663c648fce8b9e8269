@@ -1,13 +1,12 @@
 
-L
-java:S1068"*Remove this unused "logger" private field.(ƒ…Øìşÿÿÿÿ8¸½œÌñ.
-“
-java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78É…œÍñ.
-=
-java:S2129" Remove this "String" constructor(ŒË¤×8ĞˆâÌñ.
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ª›ªüÿÿÿÿ8É…œÍñ.
-L
-java:S1172"*Remove this unused method parameter "str".(²ª›ªüÿÿÿÿ8É…œÍñ.
 D
 java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ªÓËñ.
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78É…œÍñ.
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(²ª›ªüÿÿÿÿ8É…œÍñ.
+=
+java:S2129" Remove this "String" constructor(ŒË¤×8ĞˆâÌñ.
+L
+java:S1172"*Remove this unused method parameter "str".(²ª›ªüÿÿÿÿ8É…œÍñ.
+]	java:S125"<This block of commented-out lines of code should be removed.(†Òúÿÿÿÿ8ÔÖÙ¾—/

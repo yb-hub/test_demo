@@ -1,5 +1,6 @@
 package com.yb.demo;
 
+import com.sun.org.apache.xpath.internal.operations.String;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -14,15 +15,7 @@ public class JVMTest {
 
     //private static Logger logger = LoggerFactory.getLogger(JVMTest.class);
 
-    public static void main(String[] args) throws InterruptedException {
-        int i = 0;
-        while(true){
-            String str = new String(String.valueOf(i++));
-            use(str);
-        }
-    }
-
-    private static void use(String str) {
-
+    public static void main(String[] args) {
+        String s = new String();
     }
 }

@@ -10,4 +10,8 @@ public class SuperClass {
         System.out.println("this is SuperClass");
     }
     public static int value = 1;
+
+    public static void main(String[] args) {
+        String s = new String("1");
+    }
 }

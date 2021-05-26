@@ -1,5 +1,15 @@
 
-t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚î¸ûÿÿÿÿ
-P
-java:S1118":Add a private constructor to hide the implicit public one.(ñ¬ç
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÈÒ§
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(‚î¸ûÿÿÿÿ
+L
+java:S1444
+"*Make this "public static name" field final(–ùË”ùÿÿÿÿ8«èÈÌ—/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¸ØïU8ßÏÉÌ—/
+r
+java:S1104
+"PMake name a static final constant or non-public and provide accessors if needed.(–ùË”ùÿÿÿÿ8«èÈÌ—/
+`
+java:S1854">Remove this useless assignment to local variable "constClass".(Ñ°È’ùÿÿÿÿ8ßÏÉÌ—/
+Q
+java:S1481"/Remove this unused "constClass" local variable.(Ñ°È’ùÿÿÿÿ8ßÏÉÌ—/
+X	java:S125"<This block of commented-out lines of code should be removed.(å³¡ı8ÏÔòÊ—/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÈÒ§

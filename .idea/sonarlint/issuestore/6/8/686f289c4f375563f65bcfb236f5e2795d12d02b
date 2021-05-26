@@ -1,0 +1,32 @@
+
+=
+java:S2129"" Remove this "String" constructor(·¸Ä²8Ã¦š˜/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ8¼ı¹”˜/
+X
+java:S1854"";Remove this useless assignment to local variable "testStr".(·¸Ä²8Ã¦š˜/
+l
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ôİÕıÿÿÿÿ
+B
+java:S2129" Remove this "String" constructor(Êóíìûÿÿÿÿ8ı½¹”˜/
+=
+java:S2129" Remove this "String" constructor(£ŒÜ»8’×‚š˜/
+[
+java:S4973 "9Use the "equals" method if value comparison was intended.(ÑÉÂÁûÿÿÿÿ8Óá„š˜/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ÑÉÂÁûÿÿÿÿ8‚Ğ„š˜/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«ç¤Âÿÿÿÿÿ8ŒÖ•ú—/
+B
+java:S2129" Remove this "String" constructor(½ÒÇúÿÿÿÿ8Ì¹”˜/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8¶¥—ú—/
+I
+java:S1481"",Remove this unused "testStr" local variable.(·¸Ä²8Ã¦š˜/
+=
+java:S2129" Remove this "String" constructor(£ŒÜ»8’×‚š˜/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(«ç¤Âÿÿÿÿÿ8¶¥—ú—/
+H
+java:S1068"&Remove this unused "aa" private field.(ö™ÊÉüÿÿÿÿ8ô½œ˜/
+X	java:S125"<This block of commented-out lines of code should be removed.(ªÙúû8ğª˜ú—/
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(†Á¸ÿÿÿÿÿ8¼ı¹”˜/
+C
+java:S1170"!Make this final field static too.(ö™ÊÉüÿÿÿÿ8¾óœ˜/

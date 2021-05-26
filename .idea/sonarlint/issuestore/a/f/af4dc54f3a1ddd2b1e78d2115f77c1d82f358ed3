@@ -1,0 +1,13 @@
+
+D
+java:S1481
+"'Remove this unused "s1" local variable.(»úğ§8Ô­œ˜/
+X
+java:S1854"6Remove this useless assignment to local variable "s2".(È¡ºùùÿÿÿÿ8‘º®œ˜/
+S
+java:S1854
+"6Remove this useless assignment to local variable "s1".(»úğ§8‘º®œ˜/
+B
+java:S2129" Remove this "String" constructor(È¡ºùùÿÿÿÿ8‘º®œ˜/
+I
+java:S1481"'Remove this unused "s2" local variable.(È¡ºùùÿÿÿÿ8‘º®œ˜/

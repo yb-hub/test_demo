@@ -1,0 +1,6 @@
+
+r
+java:S1858."P"stringBuilder" is already a string, there's no need to call "toString()" on it.(—ÔÄùÿÿÿÿ8ñ²òÂ—/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú²¤°
+B
+java:S1659?" Declare "k2" on a separate line.(¶Âå€ûÿÿÿÿ8†À¶Â—/
