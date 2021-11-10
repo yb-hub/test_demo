@@ -19,6 +19,10 @@
         <module>AES_demo</module>
         <module>excel_demo</module>
         <module>common_demo</module>
+        <module>leetcode</module>
+        <module>jvm_demo</module>
+        <module>websocket-demo</module>
+        <module>scan-demo</module>
     </modules>
 
     <properties>
@@ -46,11 +50,11 @@
         </dependency>
 
         <!--common-demo-->
-        <dependency>
-            <groupId>com.yb.demo</groupId>
-            <artifactId>common_demo</artifactId>
-            <version>${common-version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.yb.demo</groupId>-->
+            <!--<artifactId>common_demo</artifactId>-->
+            <!--<version>${common-version}</version>-->
+        <!--</dependency>-->
     </dependencies>
 
 </project>

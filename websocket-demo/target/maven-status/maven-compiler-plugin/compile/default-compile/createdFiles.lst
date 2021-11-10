@@ -1,0 +1,3 @@
+com\yb\demo\config\WebsocketConfig.class
+com\yb\demo\websocket\MyWebsocket.class
+com\yb\demo\WebsocketApplication.class

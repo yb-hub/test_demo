@@ -1,7 +1,9 @@
 package com.example.demo;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
 
 /**
  * @Auther: Yang
@@ -9,8 +11,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Description:
  */
 @SpringBootApplication
+@Slf4j
 public class TestApplication {
     public static void main(String[] args) {
-        SpringApplication.run(TestApplication.class);
+        ConfigurableApplicationContext context = SpringApplication.run(TestApplication.class);
+        log.info(String.valueOf(context.getBeanFactory().getBean("iMEIEntity")));
     }
 }

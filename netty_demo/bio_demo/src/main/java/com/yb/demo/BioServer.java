@@ -15,7 +15,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 public class BioServer {
     public static void main(String[] args) throws IOException {
         //创建一个socket
-        ServerSocket serverSocket = new ServerSocket(8001);
+        ServerSocket serverSocket = new ServerSocket(8001,1);
         //使用socket接收数据
         while(true){
             System.out.println("等待客户端连接。。。");
