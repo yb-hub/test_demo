@@ -22,6 +22,11 @@
         <module>leetcode</module>
         <module>jvm_demo</module>
         <module>plugins_demo1</module>
+        <module>spring_demo</module>
+        <module>aop_demo</module>
+        <module>springboot_demo</module>
+        <module>springboot_demo</module>
+        <module>springboot_demo</module>
     </modules>
 
     <properties>

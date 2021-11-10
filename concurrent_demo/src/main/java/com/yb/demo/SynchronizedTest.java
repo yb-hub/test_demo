@@ -17,15 +17,22 @@ public class SynchronizedTest {
         number ++;
     }
 
-    public void read(){
+    public synchronized void read(){
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
         System.out.println(number);
     }
     public static void main(String[] args) {
-        SynchronizedTest synchronizedTest = new SynchronizedTest();
+
         new Thread(()->{
+            SynchronizedTest synchronizedTest = new SynchronizedTest();
             synchronizedTest.write();
         }).start();
         new Thread(()->{
+            SynchronizedTest synchronizedTest = new SynchronizedTest();
             synchronizedTest.read();
         }).start();
     }

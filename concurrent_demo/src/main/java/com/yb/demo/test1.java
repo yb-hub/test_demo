@@ -35,12 +35,12 @@ public class test1 {
         }
 
 
-//        String str = "200628192000";
-//        DateTimeFormatter yyMMddHHmmSS = DateTimeFormatter.ofPattern("yyMMddHHmmss");
-//        LocalDateTime parse = LocalDateTime.parse(str, yyMMddHHmmSS);
-//        long timestamp = parse.toInstant(ZoneOffset.of("+8")).toEpochMilli();
-//        String s = String.valueOf(timestamp);
-//        String substring = s.substring(0, s.length() - 3);
-//        System.out.println(substring);
+        String str = "200628192000";
+        DateTimeFormatter yyMMddHHmmSS = DateTimeFormatter.ofPattern("yyMMddHHmmss");
+        LocalDateTime parse = LocalDateTime.parse(str, yyMMddHHmmSS);
+        long timestamp = parse.toInstant(ZoneOffset.of("+8")).toEpochMilli();
+        String s = String.valueOf(timestamp);
+        String substring = s.substring(0, s.length() - 3);
+        System.out.println(substring);
     }
 }

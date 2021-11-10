@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="AES_demo" />
+        <module name="aop_demo" />
         <module name="bio_demo" />
         <module name="common_demo" />
         <module name="concurrent_demo" />
@@ -14,6 +15,7 @@
         <module name="excel_demo" />
         <module name="fastjson_demo" />
         <module name="filecut_demo" />
+        <module name="forest_demo" />
         <module name="groupchat_demo" />
         <module name="jarsLink_demo" />
         <module name="jarslinkmodule" />
@@ -25,12 +27,14 @@
         <module name="nio_demo" />
         <module name="plugin_demo2" />
         <module name="plugins_demo" />
+        <module name="sehedule_demo" />
         <module name="threadPool_demo" />
         <module name="测试题" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AES_demo" target="1.8" />
+      <module name="aop_demo" target="1.8" />
       <module name="bio_demo" target="1.8" />
       <module name="common_demo" target="1.8" />
       <module name="concurrent_demo" target="1.8" />
@@ -38,6 +42,7 @@
       <module name="excel_demo" target="1.8" />
       <module name="fastjson_demo" target="1.8" />
       <module name="filecut_demo" target="1.8" />
+      <module name="forest_demo" target="1.8" />
       <module name="groupchat_demo" target="1.8" />
       <module name="io_demo" target="1.8" />
       <module name="jarsLink_demo" target="1.8" />
@@ -51,6 +56,9 @@
       <module name="plugin_demo2" target="1.8" />
       <module name="plugins_demo" target="1.8" />
       <module name="plugins_demo1" target="1.8" />
+      <module name="sehedule_demo" target="1.8" />
+      <module name="spring_demo" target="1.8" />
+      <module name="springboot_demo" target="1.8" />
       <module name="test_demo" target="1.8" />
       <module name="thread_dmmo" target="1.8" />
       <module name="threadPool_demo" target="1.8" />
@@ -60,12 +68,14 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AES_demo" options="-parameters" />
+      <module name="aop_demo" options="-parameters" />
       <module name="bio_demo" options="-parameters" />
       <module name="common_demo" options="-parameters" />
       <module name="concurrent_demo" options="-parameters" />
       <module name="excel_demo" options="-parameters" />
       <module name="fastjson_demo" options="-parameters" />
       <module name="filecut_demo" options="-parameters" />
+      <module name="forest_demo" options="-parameters" />
       <module name="groupchat_demo" options="-parameters" />
       <module name="jarslinkmodule" options="" />
       <module name="jaslindmodule1" options="-parameters" />
@@ -77,6 +87,9 @@
       <module name="plugin_demo2" options="-parameters" />
       <module name="plugins_demo" options="" />
       <module name="plugins_demo1" options="-parameters" />
+      <module name="sehedule_demo" options="-parameters" />
+      <module name="spring_demo" options="-parameters" />
+      <module name="springboot_demo" options="-parameters" />
       <module name="threadPool_demo" options="-parameters" />
       <module name="测试题" options="-parameters" />
     </option>

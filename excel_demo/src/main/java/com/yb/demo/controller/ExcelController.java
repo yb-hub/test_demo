@@ -5,7 +5,10 @@ import okhttp3.Call;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
@@ -15,8 +18,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.multipart.MultipartFile;
 
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.util.Iterator;
 
 /**
@@ -126,5 +128,23 @@ public class ExcelController {
             return result_money;
         }
         return null;
+    }
+
+    public static void main(String[] args) throws IOException {
+        FileInputStream fis = new FileInputStream(new File("C:\\Users\\86178\\Desktop\\civiTemplate.xlsx"));
+        //读取excel文件
+        XSSFWorkbook workbook = new XSSFWorkbook(fis);
+        //获取sheet
+        XSSFSheet sheet = workbook.getSheet("sheet1");
+        Iterator<Row> rowIterator = sheet.rowIterator();
+        while (rowIterator.hasNext()) {
+            Row row = rowIterator.next();
+            Iterator<Cell> cellIterator = row.cellIterator();
+            System.out.println("第"+row.getRowNum()+"行：");
+            while (cellIterator.hasNext()) {
+                Cell cell = cellIterator.next();
+                System.out.println(cell.getStringCellValue());
+            }
+        }
     }
 }

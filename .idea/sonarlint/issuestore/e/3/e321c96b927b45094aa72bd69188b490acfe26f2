@@ -1,4 +1,10 @@
 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(λτίΚ
 N	java:S106
 "9Replace this use of System.out or System.err by a logger.(άΕ›
-N	java:S106"9Replace this use of System.out or System.err by a logger.(λτίΚ
+R
+java:S1854"5Remove this useless assignment to local variable "s".(βΚ”8”‰ª‚/
+=
+java:S2129" Remove this "String" constructor(βΚ”8”‰ª‚/
+C
+java:S1481"&Remove this unused "s" local variable.(βΚ”8”‰ª‚/

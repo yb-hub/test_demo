@@ -1,14 +1,14 @@
 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–½§Ó
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ùÙı
 R
 java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ€Şûÿÿÿÿ
-Z
-java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ
-_
-java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(àÜ
 >
 java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(ùÙı
+Z
+java:S1128"DRemove this unused import 'java.util.concurrent.ThreadPoolExecutor'.(¦ÿöÊ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Õ€Şûÿÿÿÿ
+_
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(àÜ
 =
 java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(–½§Ó

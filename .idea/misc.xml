@@ -13,11 +13,14 @@
         <option value="$PROJECT_DIR$/plugin_demo2/pom.xml" />
         <option value="$PROJECT_DIR$/jarsLink_demo/pom.xml" />
         <option value="$PROJECT_DIR$/jarslinkmodule/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_demo/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/plugins_demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_demo/pom.xml" />
       </set>
     </option>
   </component>
