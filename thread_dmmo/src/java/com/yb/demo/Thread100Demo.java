@@ -11,21 +11,21 @@ public class Thread100Demo {
         String s2 = "s2";
         String s3 = "s3";
         MyThread m1 = new MyThread("m1", s3,s1);
-        MyThread m2 = new MyThread("m2", s1, s3);
-        MyThread m3 = new MyThread("m3", s2, s1);
-        m1.run();
+        MyThread m2 = new MyThread("m2", s1, s2);
+        MyThread m3 = new MyThread("m3", s2, s3);
+        new Thread(m1).start();
         try {
-            Thread.sleep(1000);
+            Thread.sleep(100);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        m2.run();
+        new Thread(m2).start();
         try {
-            Thread.sleep(1000);
+            Thread.sleep(100);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        m3.run();
+        new Thread(m3).start();
     }
 
 }

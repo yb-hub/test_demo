@@ -5,68 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a0531b4-3b5a-4903-aaf7-3119eb97bf7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/aop_demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/AopDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/annotation/LogAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/aop/LogAop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadLoaclTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TransientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/FixParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PersonEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/ForestDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/ForestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/ScheduleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/schedule/ScheduleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试题/src/main/java/com/yb/demo/HashMapAndConcurrentHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37c6f149e94287731d831f0e68c912f63100185b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/37c6f149e94287731d831f0e68c912f63100185b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dc6c33f3d9c773f9ee40762750b42e047c416c6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/d/3dc6c33f3d9c773f9ee40762750b42e047c416c6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/686f289c4f375563f65bcfb236f5e2795d12d02b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/686f289c4f375563f65bcfb236f5e2795d12d02b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af4dc54f3a1ddd2b1e78d2115f77c1d82f358ed3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/f/af4dc54f3a1ddd2b1e78d2115f77c1d82f358ed3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfe7122e67a6555ac6dad4663c648fce8b9e8269" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bfe7122e67a6555ac6dad4663c648fce8b9e8269" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c25a6b4a03a026b3f1ef242e1f3504ba6583af47" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c25a6b4a03a026b3f1ef242e1f3504ba6583af47" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce70344fc62d463acf64441c2ded9f8bef7e186a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce70344fc62d463acf64441c2ded9f8bef7e186a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0071459f5989385106e9f7cc1ae97df78512685" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d0071459f5989385106e9f7cc1ae97df78512685" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e321c96b927b45094aa72bd69188b490acfe26f2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e321c96b927b45094aa72bd69188b490acfe26f2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/VolatileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/VolatileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_demo/src/main/java/com/yb/demo/controller/ExcelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/excel_demo/src/main/java/com/yb/demo/controller/ExcelController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_demo/target/classes/com/yb/demo/controller/ExcelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/excel_demo/target/classes/com/yb/demo/controller/ExcelController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/StringTableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/StringTableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/MyThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/Thread100Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/Thread100Demo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/netty_demo/netty/target/" />
     <ignored path="$PROJECT_DIR$/netty_demo/nio_demo/target/" />
@@ -106,32 +51,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyClient.java">
+        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ReentrantLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="950">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/ClimbStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
               <folding>
-                <element signature="e#724#992#0" expanded="true" />
-                <element signature="e#991#992#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java">
+        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+            <state relative-caret-position="-1302">
+              <caret line="110" column="23" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -139,21 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-              <folding>
-                <element signature="e#1081#1541#0" expanded="true" />
-                <element signature="e#1540#1541#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/bootstrap/Bootstrap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="124" column="25" selection-start-line="124" selection-start-column="25" selection-end-line="124" selection-end-column="25" />
+            <state relative-caret-position="600">
+              <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -161,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+            <state relative-caret-position="1275">
+              <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
               <folding>
                 <element signature="e#3460#3461#0" expanded="true" />
                 <element signature="e#3491#3492#0" expanded="true" />
@@ -174,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/EventLoopGroup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
+            <state relative-caret-position="25">
               <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
             </state>
           </provider>
@@ -183,8 +132,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="70" column="48" lean-forward="true" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+            <state relative-caret-position="925">
+              <caret line="70" column="48" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
               <folding>
                 <element signature="e#1713#1714#0" expanded="true" />
                 <element signature="e#1736#1737#0" expanded="true" />
@@ -200,17 +149,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="79" column="27" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="27" />
+            <state relative-caret-position="400">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -255,8 +195,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/IsMatch.java" />
-        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTest.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/jvm_demo/src/main/java/java/lang/String.java" />
         <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/JVMTest.java" />
@@ -304,8 +242,10 @@
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/entity/Person.java" />
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/ForestDemoApplication.java" />
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" />
         <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" />
+        <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/ClimbStairs.java" />
+        <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java" />
       </list>
     </option>
   </component>
@@ -346,10 +286,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="85" />
+    <option name="x" value="-29" />
+    <option name="y" value="120" />
     <option name="width" value="1590" />
-    <option name="height" value="940" />
+    <option name="height" value="931" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -358,7 +298,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -369,33 +308,53 @@
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,7 +366,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636535969103" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636709146754" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../物联网/athena/code" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -445,7 +404,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Thread100Demo">
+  <component name="RunManager" selected="Application.Generate">
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.dp.ClimbStairs" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yb.demo.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.dp.Generate" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yb.demo.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yb.demo.controller.TestController" />
       <module name="forest_demo" />
@@ -461,19 +446,6 @@
     </configuration>
     <configuration name="Thread100Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yb.demo.Thread100Demo" />
-      <module name="thread_dmmo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThreadABCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.ThreadABCDemo" />
       <module name="thread_dmmo" />
       <extension name="coverage">
         <pattern>
@@ -533,19 +505,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScheduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="sehedule_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.ScheduleApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="demo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.TestApplication" />
@@ -561,18 +520,18 @@
       <item itemvalue="Spring Boot.JarslinkmoduleApplication" />
       <item itemvalue="Spring Boot.TestApplication" />
       <item itemvalue="Spring Boot.ForestDemoApplication" />
-      <item itemvalue="Spring Boot.ScheduleApplication" />
-      <item itemvalue="Application.ThreadABCDemo" />
       <item itemvalue="Application.TestController" />
       <item itemvalue="Application.Thread100Demo" />
+      <item itemvalue="Application.ClimbStairs" />
+      <item itemvalue="Application.Generate" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Generate" />
+        <item itemvalue="Application.ClimbStairs" />
         <item itemvalue="Application.Thread100Demo" />
         <item itemvalue="Application.TestController" />
         <item itemvalue="Spring Boot.ForestDemoApplication" />
-        <item itemvalue="Application.ThreadABCDemo" />
-        <item itemvalue="Spring Boot.ScheduleApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -661,18 +620,19 @@
       <workItem from="1635993195257" duration="588000" />
       <workItem from="1636015050216" duration="591000" />
       <workItem from="1636331665122" duration="7890000" />
-      <workItem from="1636506524686" duration="13308000" />
+      <workItem from="1636506524686" duration="17545000" />
+      <workItem from="1636695648839" duration="4377000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="479887000" />
+    <option name="totallyTimeSpent" value="488501000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="85" width="1590" height="940" extended-state="0" />
+    <frame x="-29" y="120" width="1590" height="931" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.21045752" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.2130719" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.21428572" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -682,15 +642,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18822023" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36551723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26036268" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.33549222" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3097143" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15620999" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3243243" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3238342" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
@@ -805,20 +765,31 @@
           <properties />
           <option name="timeStamp" value="231" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="n==4" language="JAVA" />
+          <url>file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="table" language="JAVA" />
-        <watch expression="table[42].next" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>n==4</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>n==3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>beanName.equals(&quot;testController&quot;)</expression-string>
         <language-id>JAVA</language-id>
@@ -916,45 +887,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7125">
-          <caret line="325" column="28" selection-start-line="325" selection-start-column="28" selection-end-line="325" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29875">
-          <caret line="1253" selection-start-line="1253" selection-end-line="1253" />
-          <folding>
-            <element signature="e#47101#47102#0" expanded="true" />
-            <element signature="e#47157#47158#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadJoinTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="37" column="20" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17800">
@@ -1186,10 +1118,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-          <folding>
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1228,17 +1156,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/EventLoopGroup.java">
+    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        <state relative-caret-position="550">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="87" column="17" lean-forward="true" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
+        <state relative-caret-position="1275">
+          <caret line="87" column="17" selection-start-line="87" selection-start-column="17" selection-end-line="87" selection-end-column="17" />
           <folding>
             <element signature="e#3460#3461#0" expanded="true" />
             <element signature="e#3491#3492#0" expanded="true" />
@@ -1248,8 +1204,8 @@
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="70" column="48" lean-forward="true" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+        <state relative-caret-position="925">
+          <caret line="70" column="48" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
           <folding>
             <element signature="e#1713#1714#0" expanded="true" />
             <element signature="e#1736#1737#0" expanded="true" />
@@ -1261,46 +1217,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="30" column="56" lean-forward="true" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-          <folding>
-            <element signature="e#1081#1541#0" expanded="true" />
-            <element signature="e#1540#1541#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServerHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyClient.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-          <folding>
-            <element signature="e#724#992#0" expanded="true" />
-            <element signature="e#991#992#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="232">
+          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/EventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1302">
+          <caret line="110" column="23" selection-start-line="110" selection-start-column="22" selection-end-line="110" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
