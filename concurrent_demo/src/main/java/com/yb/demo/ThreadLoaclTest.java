@@ -22,7 +22,7 @@ public class ThreadLoaclTest {
         Thread thread = Thread.currentThread();
         //thread.threadLocals;
         VolatileTest volatileTest = new VolatileTest();
-        int test = volatileTest.test;
+        //int test = volatileTest.test;
 
     }
 }
