@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/java8_demo/java8_demo.iml" filepath="$PROJECT_DIR$/java8_demo/java8_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/jvm_demo/jvm_demo.iml" filepath="$PROJECT_DIR$/jvm_demo/jvm_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongoDB_demo/mongoDB_demo.iml" filepath="$PROJECT_DIR$/mongoDB_demo/mongoDB_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/netty/netty.iml" filepath="$PROJECT_DIR$/netty_demo/netty/netty.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" filepath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/plugin_demo2/plugin_demo2.iml" filepath="$PROJECT_DIR$/plugin_demo2/plugin_demo2.iml" />
