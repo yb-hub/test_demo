@@ -2,6 +2,8 @@ package com.yb.demo;
 
 
 
+import java.util.ArrayList;
+
 /**
  * @author yb
  * @description 字符串常量池测试类
@@ -9,10 +11,18 @@ package com.yb.demo;
  */
 public class StringTableTest {
 
-    public static void main(String[] args) {
-        String str = new String("a")+new String("b");
-        str.intern();
-        String s1 = "ab";
-        System.out.println(str == s1);
+    public static void main(String[] args) throws InterruptedException {
+//        String str = new String("a")+new String("b");
+//        str.intern();
+//        String s1 = "ab";
+//        System.out.println(str == s1);
+        String str = "1";
+        ArrayList<String> list = new ArrayList<>();
+        for (int i = 0;; i++) {
+            Thread.sleep(1);
+            String timeStr = new String("test");
+            //list.add(timeStr);
+            //System.out.println(i);
+        }
     }
 }

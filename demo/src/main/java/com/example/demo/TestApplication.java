@@ -13,8 +13,11 @@ import org.springframework.context.ConfigurableApplicationContext;
 @SpringBootApplication
 @Slf4j
 public class TestApplication {
+
+    public static ConfigurableApplicationContext ctx;
+
     public static void main(String[] args) {
         ConfigurableApplicationContext context = SpringApplication.run(TestApplication.class);
-        log.info(String.valueOf(context.getBeanFactory().getBean("iMEIEntity")));
+        TestApplication.ctx =  context;
     }
 }

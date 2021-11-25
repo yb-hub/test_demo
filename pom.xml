@@ -23,6 +23,11 @@
         <module>jvm_demo</module>
         <module>websocket-demo</module>
         <module>scan-demo</module>
+        <module>aop_demo</module>
+        <module>springboot_demo</module>
+        <module>springboot_demo</module>
+        <module>springboot_demo</module>
+        <module>thread_dmmo</module>
     </modules>
 
     <properties>
