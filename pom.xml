@@ -25,9 +25,9 @@
         <module>scan-demo</module>
         <module>aop_demo</module>
         <module>springboot_demo</module>
-        <module>springboot_demo</module>
-        <module>springboot_demo</module>
         <module>thread_dmmo</module>
+        <module>mongoDB_demo</module>
+        <module>xml_demo</module>
     </modules>
 
     <properties>

@@ -11,7 +11,7 @@ import org.slf4j.LoggerFactory;
  * @description
  * @data 2021/10/18
  */
-public class MyThread implements Runnable{
+public class MyThread implements Runnable {
 
     private static final Logger log = LoggerFactory.getLogger(MyThread.class);
 
@@ -29,13 +29,13 @@ public class MyThread implements Runnable{
 
     @Override
     public void run() {
-        while(true){
-            synchronized (prve){
-                synchronized (self){
+        while (true) {
+            synchronized (prve) {
+                synchronized (self) {
                     for (int i = 0; i < 3; i++) {
-                        if(count <= 100){
-                            System.out.println(name+":"+count++);
-                        }else{
+                        if (count <= 10000) {
+                            System.out.println(name + ":" + count++);
+                        } else {
                             break;
                         }
                     }
@@ -44,7 +44,11 @@ public class MyThread implements Runnable{
                 try {
                     prve.wait();
                 } catch (InterruptedException e) {
+<<<<<<< HEAD
                     log.info("异常中断");
+=======
+                    e.printStackTrace();
+>>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
                 }
             }
         }

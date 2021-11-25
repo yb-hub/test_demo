@@ -15,13 +15,13 @@ public class Thread100Demo {
         MyThread m3 = new MyThread("m3", s2, s3);
         new Thread(m1).start();
         try {
-            Thread.sleep(1000);
+            Thread.sleep(100);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
         new Thread(m2).start();
         try {
-            Thread.sleep(1000);
+            Thread.sleep(100);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

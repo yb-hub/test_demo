@@ -19,12 +19,17 @@
         <module name="java8_demo" />
         <module name="jvm_demo" />
         <module name="leetcode" />
+        <module name="mongoDB_demo" />
         <module name="netty" />
         <module name="nio_demo" />
         <module name="scan-demo" />
         <module name="sehedule_demo" />
         <module name="threadPool_demo" />
+<<<<<<< HEAD
         <module name="websocket-demo" />
+=======
+        <module name="xml_demo" />
+>>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
         <module name="测试题" />
       </profile>
     </annotationProcessing>
@@ -43,6 +48,7 @@
       <module name="java8_demo" target="1.8" />
       <module name="jvm_demo" target="1.8" />
       <module name="leetcode" target="1.8" />
+      <module name="mongoDB_demo" target="1.8" />
       <module name="netty" target="1.8" />
       <module name="nio_demo" target="1.8" />
       <module name="scan-demo" target="1.8" />
@@ -51,7 +57,11 @@
       <module name="test_demo" target="1.8" />
       <module name="thread_dmmo" target="1.8" />
       <module name="threadPool_demo" target="1.8" />
+<<<<<<< HEAD
       <module name="websocket-demo" target="1.8" />
+=======
+      <module name="xml_demo" target="1.8" />
+>>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
       <module name="测试题" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -70,12 +80,17 @@
       <module name="java8_demo" options="-parameters" />
       <module name="jvm_demo" options="-parameters" />
       <module name="leetcode" options="-parameters" />
+      <module name="mongoDB_demo" options="-parameters" />
       <module name="netty" options="-parameters" />
       <module name="nio_demo" options="-parameters" />
       <module name="scan-demo" options="-parameters" />
       <module name="sehedule_demo" options="-parameters" />
       <module name="threadPool_demo" options="-parameters" />
+<<<<<<< HEAD
       <module name="websocket-demo" options="-parameters" />
+=======
+      <module name="xml_demo" options="-parameters" />
+>>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
       <module name="测试题" options="-parameters" />
     </option>
   </component>
