@@ -28,6 +28,7 @@
         <module>springboot_demo</module>
         <module>springboot_demo</module>
         <module>mongoDB_demo</module>
+        <module>xml_demo</module>
     </modules>
 
     <properties>

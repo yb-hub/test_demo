@@ -30,6 +30,7 @@
         <module name="plugins_demo" />
         <module name="sehedule_demo" />
         <module name="threadPool_demo" />
+        <module name="xml_demo" />
         <module name="测试题" />
       </profile>
     </annotationProcessing>
@@ -64,6 +65,7 @@
       <module name="test_demo" target="1.8" />
       <module name="thread_dmmo" target="1.8" />
       <module name="threadPool_demo" target="1.8" />
+      <module name="xml_demo" target="1.8" />
       <module name="测试题" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -94,6 +96,7 @@
       <module name="spring_demo" options="-parameters" />
       <module name="springboot_demo" options="-parameters" />
       <module name="threadPool_demo" options="-parameters" />
+      <module name="xml_demo" options="-parameters" />
       <module name="测试题" options="-parameters" />
     </option>
   </component>

@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/test_demo.iml" filepath="$PROJECT_DIR$/test_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" filepath="$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" filepath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xml_demo/xml_demo.iml" filepath="$PROJECT_DIR$/xml_demo/xml_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/测试题/测试题.iml" filepath="$PROJECT_DIR$/测试题/测试题.iml" />
     </modules>
   </component>

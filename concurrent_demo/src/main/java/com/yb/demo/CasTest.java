@@ -15,54 +15,84 @@ import java.util.concurrent.atomic.AtomicStampedReference;
 public class CasTest {
 
     public static void main(String[] args) {
-        AtomicInteger number = new AtomicInteger();
-        //比较并设置
-        boolean isSuccess = number.compareAndSet(1, 100);
-        System.out.println(isSuccess);
-        //获取并自增
-        int newNumber = number.getAndIncrement();
-        System.out.println(newNumber);
+//        AtomicInteger number = new AtomicInteger();
+//        //比较并设置
+//        boolean isSuccess = number.compareAndSet(1, 100);
+//        System.out.println(isSuccess);
+//        //获取并自增
+//        int newNumber = number.getAndIncrement();
+//        System.out.println(newNumber);
+//
+//        //原子对象引用
+//        AtomicReference<User> atomicReference = new AtomicReference<>();
+//        User user = new User("yang1",18);
+//        User user2 = new User("yang2", 19);
+//        atomicReference.set(user);
+//        new Thread(()->{
+//            //aba
+//            atomicReference.compareAndSet(user, user2);
+//            atomicReference.compareAndSet(user2, user);
+//        }).start();
+//
+//        new Thread(()->{
+//            try {
+//                Thread.sleep(100);
+//            } catch (InterruptedException e) {
+//                log.info("异常中断");
+//            }
+//            boolean result = atomicReference.compareAndSet(user, user2);
+//            log.info("result={}",result);
+//        }).start();
+//
+//        //时间戳原子引用 通过添加类似版本号解决aba问题
+//        AtomicStampedReference<User> stampedReference = new AtomicStampedReference<User>(user,1);
+//        new Thread(()->{
+//            stampedReference.compareAndSet(user,user2,stampedReference.getStamp(),stampedReference.getStamp()+1);
+//            stampedReference.compareAndSet(user2,user,stampedReference.getStamp(),stampedReference.getStamp()+1);
+//        }).start();
+//
+//        new Thread(()->{
+//            try {
+//                Thread.sleep(100);
+//            } catch (InterruptedException e) {
+//                log.info("异常中断");
+//            }
+//            int stamp = stampedReference.getStamp();
+//            log.info("stamp={}",stamp);
+//            boolean result = stampedReference.compareAndSet(user, user2, 1, stamp);
+//            log.info("result={}",result);
+//        }).start();
 
-        //原子对象引用
-        AtomicReference<User> atomicReference = new AtomicReference<>();
-        User user = new User("yang1",18);
-        User user2 = new User("yang2", 19);
-        atomicReference.set(user);
-        new Thread(()->{
-            //aba
-            atomicReference.compareAndSet(user, user2);
-            atomicReference.compareAndSet(user2, user);
-        }).start();
+
+        casLockTest();
+    }
+
+    /**
+     * 自旋锁测试
+     */
+    private static void casLockTest() {
+        AtomicReference<Thread> atomicReference = new AtomicReference<>();
 
         new Thread(()->{
+           //获取锁
+            while(!atomicReference.compareAndSet(null,Thread.currentThread())){
+
+            }
+            System.out.println(Thread.currentThread().getName()+" get lock success");
             try {
-                Thread.sleep(100);
+                Thread.sleep(5000);
+                atomicReference.compareAndSet(Thread.currentThread(),null);
             } catch (InterruptedException e) {
                 log.info("异常中断");
             }
-            boolean result = atomicReference.compareAndSet(user, user2);
-            log.info("result={}",result);
-        }).start();
-
-        //时间戳原子引用 通过添加类似版本号解决aba问题
-        AtomicStampedReference<User> stampedReference = new AtomicStampedReference<User>(user,1);
-        new Thread(()->{
-            stampedReference.compareAndSet(user,user2,stampedReference.getStamp(),stampedReference.getStamp()+1);
-            stampedReference.compareAndSet(user2,user,stampedReference.getStamp(),stampedReference.getStamp()+1);
         }).start();
 
         new Thread(()->{
-            try {
-                Thread.sleep(100);
-            } catch (InterruptedException e) {
-                log.info("异常中断");
+            //获取锁
+            while(!atomicReference.compareAndSet(null,Thread.currentThread())){
+
             }
-            int stamp = stampedReference.getStamp();
-            log.info("stamp={}",stamp);
-            boolean result = stampedReference.compareAndSet(user, user2, 1, stamp);
-            log.info("result={}",result);
+            System.out.println(Thread.currentThread().getName()+" get lock success");
         }).start();
-
-
     }
 }

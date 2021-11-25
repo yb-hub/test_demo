@@ -6,18 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a0531b4-3b5a-4903-aaf7-3119eb97bf7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/ImageEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/Tag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongoDB_demo/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CollectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CollectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CasTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CollectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CollectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/netty_demo/netty/target/" />
@@ -50,6 +51,7 @@
     <ignored path="$PROJECT_DIR$/springboot_demo/forest_demo/target/" />
     <ignored path="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/" />
     <ignored path="$PROJECT_DIR$/mongoDB_demo/target/" />
+    <ignored path="$PROJECT_DIR$/xml_demo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +61,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="523" selection-start-line="523" selection-end-line="523" />
+            <state relative-caret-position="25">
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
               <folding>
-                <element signature="e#6283#6284#0" expanded="true" />
-                <element signature="e#6351#6352#0" expanded="true" />
-                <element signature="e#31007#31008#0" expanded="true" />
-                <element signature="e#31039#31040#0" expanded="true" />
-                <element signature="e#31382#31383#0" expanded="true" />
-                <element signature="e#31427#31428#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#247#298#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="545">
+              <caret line="479" column="69" selection-start-line="479" selection-start-column="69" selection-end-line="479" selection-end-column="69" />
+              <folding>
+                <element signature="e#27298#27299#0" expanded="true" />
+                <element signature="e#27343#27344#0" expanded="true" />
+                <element signature="e#35675#35676#0" expanded="true" />
+                <element signature="e#35714#35715#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml_demo/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="31" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -79,31 +132,26 @@
         <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+            <state relative-caret-position="446">
+              <caret line="28" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBApplication.java">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#339#340#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="304">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="73" column="11" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="73" selection-end-column="11" />
+            <state relative-caret-position="222">
+              <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,61 +160,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.10.RELEASE/spring-data-mongodb-2.1.10.RELEASE.jar!/org/springframework/data/mongodb/core/MongoOperations.class">
+        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="273" column="31" selection-start-line="273" selection-start-column="31" selection-end-line="273" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.10.RELEASE/spring-data-mongodb-2.1.10.RELEASE.jar!/org/springframework/data/mongodb/core/query/Query.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/ImageEntity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="204">
+              <caret line="1460" column="18" selection-start-line="1460" selection-start-column="18" selection-end-line="1460" selection-end-column="18" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/Tag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Iterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-              <folding>
-                <element signature="e#2496#2497#0" expanded="true" />
-                <element signature="e#2561#2562#0" expanded="true" />
+                <element signature="e#22675#22676#0" expanded="true" />
+                <element signature="e#22703#22704#0" expanded="true" />
+                <element signature="e#32644#32645#0" expanded="true" />
+                <element signature="e#32694#32695#0" expanded="true" />
+                <element signature="e#41392#41393#0" expanded="true" />
+                <element signature="e#41449#41450#0" expanded="true" />
+                <element signature="e#44444#44445#0" expanded="true" />
+                <element signature="e#44501#44502#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -213,9 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/AopDemoApplication.java" />
-        <option value="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/aop/LogAop.java" />
-        <option value="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTableTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedDemo.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/LongTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" />
@@ -256,7 +259,6 @@
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ListTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/User.java" />
-        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CollectTest.java" />
         <option value="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBApplication.java" />
         <option value="$PROJECT_DIR$/mongoDB_demo/src/main/resources/application.yml" />
@@ -264,6 +266,10 @@
         <option value="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/ImageEntity.java" />
         <option value="$PROJECT_DIR$/mongoDB_demo/pom.xml" />
         <option value="$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBTest.java" />
+        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java" />
+        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/xml_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java" />
       </list>
     </option>
   </component>
@@ -304,9 +310,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="264" />
-    <option name="width" value="1632" />
-    <option name="height" value="1047" />
+    <option name="x" value="-47" />
+    <option name="y" value="92" />
+    <option name="width" value="1786" />
+    <option name="height" value="1034" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -331,50 +338,94 @@
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="locks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -392,7 +443,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637742077162" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637830025328" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -402,11 +453,8 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\86178\Desktop\test_demo\jvm_demo\src\main\java\com\yb\demo" />
-      <recent name="C:\Users\86178\Desktop\test_demo\jarsLink_demo\src\main\resources" />
-      <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\src\main\resources\META-INF\services" />
-      <recent name="C:\Users\86178\Desktop\test_demo\demo\src\main\java\com\example\demo" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\lib" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.yb.demo.schedule" />
@@ -414,8 +462,12 @@
       <recent name="com.yb.demo.config" />
       <recent name="com.yb.demo.demo.plugin" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\lib" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86178\Desktop\test_demo\xml_demo\src\main\resources" />
+      <recent name="C:\Users\86178\Desktop\test_demo\jvm_demo\src\main\java\com\yb\demo" />
+      <recent name="C:\Users\86178\Desktop\test_demo\jarsLink_demo\src\main\resources" />
+      <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\src\main\resources\META-INF\services" />
+      <recent name="C:\Users\86178\Desktop\test_demo\demo\src\main\java\com\example\demo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -430,7 +482,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MongoDBApplication">
+  <component name="RunManager" selected="Application.XmlApplication">
     <configuration name="CasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.yb.demo.CasTest" />
       <module name="concurrent_demo" />
@@ -457,8 +509,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.SingletonDemo" />
+    <configuration name="ReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.ReentrantLockDemo" />
       <module name="concurrent_demo" />
       <extension name="coverage">
         <pattern>
@@ -470,9 +522,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="User" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.User" />
-      <module name="concurrent_demo" />
+    <configuration name="XmlApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.XmlApplication" />
+      <module name="xml_demo" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yb.demo.*" />
@@ -545,19 +597,19 @@
       <item itemvalue="Spring Boot.DemoApplication (1)" />
       <item itemvalue="Spring Boot.JarslinkmoduleApplication" />
       <item itemvalue="Spring Boot.TestApplication" />
-      <item itemvalue="Application.SingletonDemo" />
       <item itemvalue="Application.CasTest" />
-      <item itemvalue="Application.User" />
       <item itemvalue="Application.CollectTest" />
       <item itemvalue="Spring Boot.MongoDBApplication" />
+      <item itemvalue="Application.ReentrantLockDemo" />
+      <item itemvalue="Application.XmlApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XmlApplication" />
+        <item itemvalue="Application.ReentrantLockDemo" />
+        <item itemvalue="Application.CasTest" />
         <item itemvalue="Spring Boot.MongoDBApplication" />
         <item itemvalue="Application.CollectTest" />
-        <item itemvalue="Application.User" />
-        <item itemvalue="Application.CasTest" />
-        <item itemvalue="Application.SingletonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -651,17 +703,18 @@
       <workItem from="1636937956505" duration="510000" />
       <workItem from="1636942063464" duration="55328000" />
       <workItem from="1637542232845" duration="6991000" />
-      <workItem from="1637733312670" duration="6769000" />
+      <workItem from="1637733312670" duration="30304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="558349000" />
+    <option name="totallyTimeSpent" value="581884000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="264" y="0" width="1632" height="1047" extended-state="1" />
+    <frame x="138" y="0" width="1786" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.20483461" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.23348783" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.21428572" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -671,15 +724,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.16809817" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3153153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3310811" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.48092484" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23303168" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.1463964" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32126698" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32045454" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
@@ -862,6 +915,16 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>readerShouldBlock()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>getExclusiveOwnerThread()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>&quot;a&quot; == null</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -896,83 +959,9 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>i = (n - 1) &amp; hash</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>resize()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.36.Final/netty-all-4.1.36.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="70" column="48" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/Generate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/nio_demo/src/main/java/com/yb/demo/NioClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="28" column="21" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="30" column="56" selection-start-line="30" selection-start-column="56" selection-end-line="30" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/nio_demo/src/main/java/com/yb/demo/NioServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="57" selection-start-line="57" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/netty_demo/netty/src/main/java/com/yb/demo/NettyServerHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/ScheduleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/resources/application-dev.yml" />
-    <entry file="file://$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/schedule/ScheduleTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadLoaclTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="333">
@@ -994,28 +983,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Unsafe.class" />
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="308" lean-forward="true" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/atomic/AtomicInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -1027,13 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="85" column="21" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="85" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1113,13 +1074,6 @@
             <element signature="e#117893#117894#0" expanded="true" />
             <element signature="e#117955#117956#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1289,14 +1243,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1311,11 +1257,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="73" column="11" lean-forward="true" selection-start-line="69" selection-start-column="8" selection-end-line="73" selection-end-column="11" />
+        <state relative-caret-position="363">
+          <caret line="68" column="51" lean-forward="true" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="85" column="21" selection-start-line="57" selection-start-column="6" selection-end-line="85" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="72" column="38" selection-start-line="72" selection-start-column="38" selection-end-line="72" selection-end-column="38" />
+          <folding>
+            <element signature="e#1663#1664#0" expanded="true" />
+            <element signature="e#1708#1709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="214" column="5" selection-start-line="214" selection-start-column="5" selection-end-line="214" selection-end-column="5" />
+          <folding>
+            <element signature="e#6849#6850#0" expanded="true" />
+            <element signature="e#6907#6908#0" expanded="true" />
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/17.0/guava-17.0-sources.jar!/com/google/common/util/concurrent/CycleDetectingLockFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="981" column="5" selection-start-line="981" selection-start-column="5" selection-end-line="981" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#298#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="1460" column="18" selection-start-line="1460" selection-start-column="18" selection-end-line="1460" selection-end-column="18" />
+          <folding>
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#32644#32645#0" expanded="true" />
+            <element signature="e#32694#32695#0" expanded="true" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+            <element signature="e#44444#44445#0" expanded="true" />
+            <element signature="e#44501#44502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantReadWriteLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="479" column="69" selection-start-line="479" selection-start-column="69" selection-end-line="479" selection-end-column="69" />
+          <folding>
+            <element signature="e#27298#27299#0" expanded="true" />
+            <element signature="e#27343#27344#0" expanded="true" />
+            <element signature="e#35675#35676#0" expanded="true" />
+            <element signature="e#35714#35715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="28" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
