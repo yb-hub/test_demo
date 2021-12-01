@@ -104,11 +104,20 @@ public class ReentrantLockDemo {
 //        Thread.sleep(1000);
 //        //在竞争锁的过程中中断t1线程
 //        t1.interrupt();
-
-        int i = 16;
-        System.out.println(16>>>2);
         //reentrantlockTest();
         //reentrantReadWriteLockTest();
+
+        //不同线程lock unlock
+        lockAndUnlockTest();
+    }
+
+    private static void lockAndUnlockTest() throws InterruptedException {
+        ReentrantLock lock = new ReentrantLock();
+        new Thread(()->{
+            lock.lock();
+        }).start();
+        Thread.sleep(100);
+        lock.unlock();
     }
 
     private static void reentrantReadWriteLockTest() {
