@@ -1,10 +1,0 @@
-
-N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ø©”Ï
-l
-java:S2095"QUse try-with-resources or close this "ServerSocketChannel" in a "finally" clause.(ãöŒÎüÿÿÿÿ
-S	java:S106 "9Replace this use of System.out or System.err by a logger.(üå¨ƒøÿÿÿÿ
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(é¯ıƒ
-M	java:S106%"9Replace this use of System.out or System.err by a logger.(îıG
-=
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü¨´¡

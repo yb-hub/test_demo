@@ -1,6 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Óèñ¦øÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(«ÑÛÿ
-R
-java:S1191"5Use classes from the Java API instead of Sun classes.(žµþ‚8“‰ª‚œ/
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(é²óûþÿÿÿÿ8“‰ª‚œ/

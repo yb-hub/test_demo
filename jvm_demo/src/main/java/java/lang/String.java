@@ -5,13 +5,13 @@ package java.lang;
  * @description
  * @data 2021/5/6
  */
-public class String {
-    static {
-        System.out.println("自定义string");
-    }
-
-    public static void main(String[] args) {
-        String s = new String();
-        System.out.println("test");
-    }
-}
+//public class String {
+//    static {
+//        System.out.println("自定义string");
+//    }
+//
+//    public static void main(String[] args) {
+//        String s = new String();
+//        System.out.println("test");
+//    }
+//}

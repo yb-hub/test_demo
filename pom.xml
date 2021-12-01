@@ -21,12 +21,11 @@
         <module>common_demo</module>
         <module>leetcode</module>
         <module>jvm_demo</module>
-        <module>plugins_demo1</module>
-        <module>spring_demo</module>
+        <module>websocket-demo</module>
+        <module>scan-demo</module>
         <module>aop_demo</module>
         <module>springboot_demo</module>
-        <module>springboot_demo</module>
-        <module>springboot_demo</module>
+        <module>thread_dmmo</module>
         <module>mongoDB_demo</module>
         <module>xml_demo</module>
     </modules>
@@ -56,11 +55,11 @@
         </dependency>
 
         <!--common-demo-->
-        <dependency>
-            <groupId>com.yb.demo</groupId>
-            <artifactId>common_demo</artifactId>
-            <version>${common-version}</version>
-        </dependency>
+        <!--<dependency>-->
+            <!--<groupId>com.yb.demo</groupId>-->
+            <!--<artifactId>common_demo</artifactId>-->
+            <!--<version>${common-version}</version>-->
+        <!--</dependency>-->
     </dependencies>
 
 </project>

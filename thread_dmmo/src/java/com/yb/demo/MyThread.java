@@ -44,7 +44,11 @@ public class MyThread implements Runnable {
                 try {
                     prve.wait();
                 } catch (InterruptedException e) {
+<<<<<<< HEAD
+                    log.info("异常中断");
+=======
                     e.printStackTrace();
+>>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
                 }
             }
         }

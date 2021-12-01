@@ -1,8 +1,0 @@
-
-]	java:S125"<This block of commented-out lines of code should be removed.(†Òúÿÿÿÿ8ÔÖÙ¾—/
-R
-java:S1191"5Use classes from the Java API instead of Sun classes.(ÊüÿÃ8 ‰ª‚œ/
-R
-java:S1854"5Remove this useless assignment to local variable "s".(â˜Ê”8 ‰ª‚œ/
-C
-java:S1481"&Remove this unused "s" local variable.(â˜Ê”8 ‰ª‚œ/
