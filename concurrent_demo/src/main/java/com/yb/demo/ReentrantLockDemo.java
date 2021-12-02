@@ -3,6 +3,7 @@ package com.yb.demo;
 import lombok.extern.slf4j.Slf4j;
 import sun.rmi.runtime.Log;
 
+import javax.xml.bind.SchemaOutputResolver;
 import java.util.HashMap;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
@@ -113,11 +114,14 @@ public class ReentrantLockDemo {
 
     private static void lockAndUnlockTest() throws InterruptedException {
         ReentrantLock lock = new ReentrantLock();
-        new Thread(()->{
+        //new Thread(lock::lock).start();
+        try {
             lock.lock();
-        }).start();
-        Thread.sleep(100);
-        lock.unlock();
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            lock.unlock();
+        }
     }
 
     private static void reentrantReadWriteLockTest() {

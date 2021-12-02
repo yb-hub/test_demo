@@ -1,263 +1,153 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-<<<<<<< HEAD
   <component name="ChangeListManager">
-    <list default="true" id="3be88912-39e0-4074-9adf-7e4201dc1ad0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aop_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/AopDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/annotation/LogAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/aop/LogAop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/java/com/yb/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/target/classes/com/yb/demo/AopDemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/target/classes/com/yb/demo/annotation/LogAnnotation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/target/classes/com/yb/demo/aop/LogAop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop_demo/target/classes/com/yb/demo/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadLoaclTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ThreadLoaclTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TransientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/FixParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PersonEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_demo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/excel_demo/target/classes/com/yb/demo/ExcelApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/ForestDemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/ForestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/entity/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/com/yb/demo/ForestDemoApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/com/yb/demo/client/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/com/yb/demo/controller/ForestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/com/yb/demo/controller/TestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/target/classes/com/yb/demo/entity/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/ScheduleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/schedule/ScheduleTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/classes/com/yb/demo/ScheduleApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/classes/com/yb/demo/schedule/ScheduleTask.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/Thread100Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/ThreadABCDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试题/src/main/java/com/yb/demo/HashMapAndConcurrentHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试题/target/classes/com/yb/demo/ByteDanceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试题/target/classes/com/yb/demo/HashMapAndConcurrentHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/测试题/target/classes/com/yb/demo/RegexDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" />
+    <list default="true" id="0c3502a0-72dc-4fda-8ef7-34c8c9f47923" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_47.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_68.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dtflys_forest_forest_core_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dtflys_forest_forest_spring_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_dtflys_forest_forest_spring_boot_starter_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_06.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_juniversalchardet_juniversalchardet_1_0_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_12_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_9.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_SparseBitSet_1_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_36_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_19.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_5_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_4_1_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_4_1_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_4_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_annotations_api_8_5_23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_3_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_6_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_7_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_5_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_13_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AES_demo/AES_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_demo/common_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/concurrent_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SynchronizedTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/VolatileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/VolatileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/demo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/demo/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_demo/excel_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_demo/src/main/java/com/yb/demo/controller/ExcelController.java" beforeDir="false" afterPath="$PROJECT_DIR$/excel_demo/src/main/java/com/yb/demo/controller/ExcelController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_demo/target/classes/com/yb/demo/controller/ExcelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/excel_demo/target/classes/com/yb/demo/controller/ExcelController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fastjson_demo/fastjson_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filecut_demo/filecut_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java8_demo/java8_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm_demo/jvm_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/src/main/java/com/yb/demo/StringTableTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/StringTableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/target/classes/com/yb/demo/StringTableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty_demo/bio_demo/bio_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty_demo/io_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty_demo/netty/netty.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scan-demo/scan-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/target/classes/com/yb/demo/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/websocket-demo/websocket-demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题/测试题.iml" beforeDir="false" />
-=======
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/test1.java" line="18" />
-    <bookmark url="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Vector.java" line="156" />
-  </component>
-  <component name="ChangeListManager">
-    <list default="true" id="8a0531b4-3b5a-4903-aaf7-3119eb97bf7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/Bndbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/Image.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/Tag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_8_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_configuration_processor_2_1_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_2_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_1_7_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_1_10_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_9_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_1_9_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AES_demo/AES_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AES_demo/AES_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aop_demo/aop_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/aop_demo/aop_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_demo/common_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/common_demo/common_demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_demo/target/classes/com/yb/demo/XmlApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/target/classes/com/yb/demo/XmlApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_demo/target/classes/img_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/target/classes/img_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xml_demo/target/classes/pic_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xml_demo/target/classes/pic_0.xml" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CasTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CasTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CollectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/CollectTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantReadWriteLockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/ReentrantReadWriteLockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SingletonDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/concurrent_demo/target/classes/com/yb/demo/SingletonDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_demo/excel_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/excel_demo/excel_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fastjson_demo/fastjson_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fastjson_demo/fastjson_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java8_demo/java8_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java8_demo/java8_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jvm_demo/jvm_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/jvm_demo/jvm_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty_demo/bio_demo/bio_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty_demo/bio_demo/bio_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty_demo/groupchat_demo/groupchat_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty_demo/io_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty_demo/io_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty_demo/netty/netty.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty_demo/netty/netty.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/netty_demo/nio_demo/nio_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scan-demo/scan-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/scan-demo/scan-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_demo/forest_demo/forest_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_demo/forest_demo/forest_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot_demo/sehedule_demo/sehedule_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot_demo/sehedule_demo/sehedule_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/threadPool_demo/threadPool_demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread_dmmo/thread_dmmo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket-demo/websocket-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/websocket-demo/websocket-demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试题/测试题.iml" beforeDir="false" afterPath="$PROJECT_DIR$/测试题/测试题.iml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/springboot_demo/target/" />
-    <ignored path="$PROJECT_DIR$/netty_demo/netty/target/" />
-    <ignored path="$PROJECT_DIR$/concurrent_demo/target/" />
+    <ignored path="$PROJECT_DIR$/jarslinkmodule/target/" />
+    <ignored path="$PROJECT_DIR$/demo/target/" />
+    <ignored path="$PROJECT_DIR$/jarsLink_demo/target/" />
+    <ignored path="$PROJECT_DIR$/plugin_demo2/target/" />
+    <ignored path="$PROJECT_DIR$/plugins_demo/target/" />
+    <ignored path="$PROJECT_DIR$/websocket-demo/target/" />
     <ignored path="$PROJECT_DIR$/scan-demo/target/" />
-    <ignored path="$PROJECT_DIR$/thread_dmmo/threadPool_demo/target/" />
+    <ignored path="$PROJECT_DIR$/fastjson_demo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_demo/forest_demo/target/" />
+    <ignored path="$PROJECT_DIR$/AES_demo/target/" />
     <ignored path="$PROJECT_DIR$/java8_demo/target/" />
-    <ignored path="$PROJECT_DIR$/测试题/target/" />
     <ignored path="$PROJECT_DIR$/netty_demo/bio_demo/target/" />
+    <ignored path="$PROJECT_DIR$/mongoDB_demo/target/" />
+    <ignored path="$PROJECT_DIR$/netty_demo/groupchat_demo/target/" />
+    <ignored path="$PROJECT_DIR$/netty_demo/netty/target/" />
     <ignored path="$PROJECT_DIR$/leetcode/target/" />
     <ignored path="$PROJECT_DIR$/netty_demo/nio_demo/target/" />
-    <ignored path="$PROJECT_DIR$/springboot_demo/forest_demo/target/" />
-    <ignored path="$PROJECT_DIR$/jvm_demo/target/" />
-    <ignored path="$PROJECT_DIR$/aop_demo/target/" />
-    <ignored path="$PROJECT_DIR$/thread_dmmo/target/" />
-    <ignored path="$PROJECT_DIR$/filecut_demo/target/" />
-    <ignored path="$PROJECT_DIR$/fastjson_demo/target/" />
-    <ignored path="$PROJECT_DIR$/AES_demo/target/" />
-    <ignored path="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/" />
-<<<<<<< HEAD
-    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/netty_demo/target/" />
-    <ignored path="$PROJECT_DIR$/websocket-demo/target/" />
+    <ignored path="$PROJECT_DIR$/filecut_demo/target/" />
     <ignored path="$PROJECT_DIR$/excel_demo/target/" />
-    <ignored path="$PROJECT_DIR$/netty_demo/groupchat_demo/target/" />
+    <ignored path="$PROJECT_DIR$/jvm_demo/target/" />
     <ignored path="$PROJECT_DIR$/common_demo/target/" />
-=======
-    <ignored path="$PROJECT_DIR$/mongoDB_demo/target/" />
+    <ignored path="$PROJECT_DIR$/aop_demo/target/" />
+    <ignored path="$PROJECT_DIR$/concurrent_demo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_demo/sehedule_demo/target/" />
+    <ignored path="$PROJECT_DIR$/springboot_demo/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/thread_dmmo/target/" />
+    <ignored path="$PROJECT_DIR$/thread_dmmo/threadPool_demo/target/" />
+    <ignored path="$PROJECT_DIR$/测试题/target/" />
     <ignored path="$PROJECT_DIR$/xml_demo/target/" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,269 +155,104 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-=======
-        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
+            <state relative-caret-position="650">
+              <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CountDownLatchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="450">
+              <caret line="21" column="9" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/pom.xml">
+        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CyclicBarrierDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-=======
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="739">
-              <caret line="941" column="20" selection-start-line="941" selection-start-column="20" selection-end-line="941" selection-end-column="20" />
-              <folding>
-                <element signature="e#27298#27299#0" expanded="true" />
-                <element signature="e#27343#27344#0" expanded="true" />
-                <element signature="e#35675#35676#0" expanded="true" />
-                <element signature="e#35714#35715#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-=======
-        <entry file="file://$PROJECT_DIR$/xml_demo/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/main/java/com/yb/demo/WaitNotifyDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-=======
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="33" column="76" lean-forward="true" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
+            <state relative-caret-position="475">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java">
+        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/CyclicBarrier.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-=======
-        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="50">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-=======
-            <state relative-caret-position="275">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="11" selection-end-column="11" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
+            <state relative-caret-position="472">
+              <caret line="237" column="56" selection-start-line="237" selection-start-column="56" selection-end-line="237" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-279">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-=======
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Thread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="187" selection-start-line="187" selection-end-line="187" />
-              <folding>
-                <element signature="e#15704#15705#0" expanded="true" />
-                <element signature="e#15770#15771#0" expanded="true" />
-              </folding>
-=======
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/pic_0.xml">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="31" selection-end-column="28" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
+            <state relative-caret-position="350">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-=======
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java">
+        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/CountDownLatch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-=======
-        <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="871" column="13" lean-forward="true" selection-start-line="871" selection-start-column="13" selection-end-line="871" selection-end-column="13" />
+            <state relative-caret-position="3350">
+              <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
               <folding>
-                <element signature="e#22675#22676#0" expanded="true" />
-                <element signature="e#22703#22704#0" expanded="true" />
-                <element signature="e#32644#32645#0" expanded="true" />
-                <element signature="e#32694#32695#0" expanded="true" />
-                <element signature="e#41392#41393#0" expanded="true" />
-                <element signature="e#41449#41450#0" expanded="true" />
-                <element signature="e#42562#42563#0" expanded="true" />
-                <element signature="e#42619#42620#0" expanded="true" />
-                <element signature="e#44444#44445#0" expanded="true" />
-                <element signature="e#44501#44502#0" expanded="true" />
+                <element signature="e#5229#5230#0" expanded="true" />
+                <element signature="e#5268#5269#0" expanded="true" />
+                <element signature="e#5391#5392#0" expanded="true" />
+                <element signature="e#5448#5449#0" expanded="true" />
+                <element signature="e#9899#9900#0" expanded="true" />
+                <element signature="e#9936#9937#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/LockSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="222">
-              <caret line="138" column="23" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
-=======
-            <state relative-caret-position="304">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Thread.java">
-=======
-<<<<<<< HEAD
-        <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-=======
-        <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java">
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="945" column="26" selection-start-line="945" selection-start-column="26" selection-end-line="945" selection-end-column="26" />
-              <folding>
-                <element signature="e#15704#15705#0" expanded="true" />
-                <element signature="e#15770#15771#0" expanded="true" />
-                <element signature="e#36709#36710#0" expanded="true" />
-                <element signature="e#36767#36768#0" expanded="true" />
-              </folding>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
-=======
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantLock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
-              <folding>
-                <element signature="e#6849#6850#0" expanded="true" />
-                <element signature="e#6907#6908#0" expanded="true" />
-                <element signature="e#9117#9118#0" expanded="true" />
-                <element signature="e#9144#9145#0" expanded="true" />
-                <element signature="e#15850#15851#0" expanded="true" />
-                <element signature="e#15881#15882#0" expanded="true" />
-              </folding>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
-=======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>props</find>
-      <find>sort</find>
-      <find>thresholdReached</find>
-      <find>intern</find>
-      <find>tostring</find>
-      <find>Aspect</find>
-      <find>singleton.put</find>
-      <find>singletonObjects.put</find>
-      <find>postProcessAfterInitialization</find>
-      <find>/IMEI</find>
-      <find>e</find>
-      <find>get</find>
-      <find>jackson.version</find>
-      <find>getand</find>
-    </findStrings>
-  </component>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -541,20 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" />
-=======
-        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedDemo.java" />
-        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/LongTest.java" />
-        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SynchronizedTest.java" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-        <option value="$PROJECT_DIR$/测试题/src/main/java/com/yb/demo/HashMapAndConcurrentHashMap.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/PersonEntity.java" />
-        <option value="$PROJECT_DIR$/demo/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TestDemo.java" />
         <option value="$PROJECT_DIR$/excel_demo/src/main/java/com/yb/demo/controller/ExcelController.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/entity/IMEIEntity.java" />
         <option value="$PROJECT_DIR$/demo/src/main/java/com/example/demo/TransientTest.java" />
@@ -576,7 +287,6 @@
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/entity/Person.java" />
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/ForestDemoApplication.java" />
         <option value="$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/TestController.java" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
         <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java" />
         <option value="$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java" />
         <option value="$PROJECT_DIR$/leetcode/src/main/java/com/yb/demo/dp/ClimbStairs.java" />
@@ -586,7 +296,6 @@
         <option value="$PROJECT_DIR$/springboot_demo/sehedule_demo/src/main/java/com/yb/demo/schedule/ScheduleTask.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadLoaclTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java" />
-        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ListTest.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/User.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CollectTest.java" />
@@ -603,6 +312,11 @@
         <option value="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlUtil.java" />
         <option value="$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java" />
         <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java" />
+        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CountDownLatchDemo.java" />
+        <option value="$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CyclicBarrierDemo.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -612,65 +326,27 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="D:\apache-maven-3.6.1-bin\repository" />
-        <option name="mavenHome" value="D:/apache-maven-3.6.1-bin/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="D:\apache-maven-3.6.1-bin\apache-maven-3.6.1\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="thread_dmmo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="thread_dmmo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
-<<<<<<< HEAD
   <component name="ProjectFrameBounds">
-    <option name="x" value="340" />
-    <option name="width" value="1588" />
-    <option name="height" value="1020" />
+    <option name="x" value="111" />
+    <option name="y" value="55" />
+    <option name="width" value="1821" />
+    <option name="height" value="990" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-=======
-  <component name="ProjectFrameBounds" extendedState="1">
-<<<<<<< HEAD
-    <option name="x" value="120" />
-    <option name="y" value="7" />
-    <option name="width" value="1699" />
-    <option name="height" value="948" />
-=======
-    <option name="x" value="-47" />
-    <option name="y" value="92" />
-    <option name="width" value="1786" />
-    <option name="height" value="1034" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
-      <pane id="Scope" />
-=======
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -678,253 +354,18 @@
               <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-=======
-<<<<<<< HEAD
-              <item name="springboot_demo" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="mongoDB_demo" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="springboot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="forest_demo" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="springboot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="forest_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="springboot_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="forest_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-              <item name="src" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="concurrent_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="ReentrantLockDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-=======
-<<<<<<< HEAD
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="threadPool_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="threadPool_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="threadPool_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="thread_dmmo" type="462c0819:PsiDirectoryNode" />
-              <item name="threadPool_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="xml_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-<<<<<<< HEAD
-=======
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-<<<<<<< HEAD
-=======
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-              <item name="java" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-=======
-              <item name="util" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-=======
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-            </path>
-            <path>
-              <item name="test_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-<<<<<<< HEAD
-              <item name="lang" type="462c0819:PsiDirectoryNode" />
-              <item name="Object" type="1a9f42e2:ClassTreeNode" />
-=======
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
-              <item name="locks" type="462c0819:PsiDirectoryNode" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638350865927" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../绍兴燃气/code/shaoxing-smart-gas/branches/shaoxing-smart-gas-operation-20210607" />
-=======
-<<<<<<< HEAD
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1636550385017" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1637830025328" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-<<<<<<< HEAD
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-=======
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1638434775588" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -943,7 +384,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\86178\Desktop\test_demo\plugins_demo\lib" />
     </key>
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -957,19 +397,9 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.ReentrantLockDemo">
-=======
-<<<<<<< HEAD
-  <component name="RunManager">
-    <configuration name="Thread100Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.Thread100Demo" />
-      <module name="thread_dmmo" />
-=======
-  <component name="RunManager" selected="Application.XmlApplication">
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-    <configuration name="CasTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.CasTest" />
+  <component name="RunManager" selected="Application.CyclicBarrierDemo">
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.CountDownLatchDemo" />
       <module name="concurrent_demo" />
       <extension name="coverage">
         <pattern>
@@ -981,8 +411,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.CollectTest" />
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yb.demo.CyclicBarrierDemo" />
       <module name="concurrent_demo" />
       <extension name="coverage">
         <pattern>
@@ -994,114 +424,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.ReentrantLockDemo" />
-      <module name="concurrent_demo" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Thread100Demo" />
-=======
-    <configuration name="XmlApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yb.demo.XmlApplication" />
-      <module name="xml_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="jarsLink_demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="plugins_demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.demo.DemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JarslinkmoduleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="jarslinkmodule" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.jarslinkmodule.JarslinkmoduleApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MongoDBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="mongoDB_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yb.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.MongoDBApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PluginDemo2Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="plugin_demo2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.plugin.demo.PluginDemo2Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PluginDemo2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="plugin_demo2" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yb.demo.plugin_demo2.PluginDemo2Application" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.TestApplication" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="jarslinkmodule" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.DemoApplication" />
-      <item itemvalue="Spring Boot.PluginDemo2Application" />
-      <item itemvalue="Spring Boot.PluginDemo2Application (1)" />
-      <item itemvalue="Spring Boot.DemoApplication (1)" />
-      <item itemvalue="Spring Boot.JarslinkmoduleApplication" />
-      <item itemvalue="Spring Boot.TestApplication" />
-      <item itemvalue="Application.CasTest" />
-      <item itemvalue="Application.CollectTest" />
-      <item itemvalue="Spring Boot.MongoDBApplication" />
-      <item itemvalue="Application.ReentrantLockDemo" />
-      <item itemvalue="Application.XmlApplication" />
+      <item itemvalue="Application.CountDownLatchDemo" />
+      <item itemvalue="Application.CyclicBarrierDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReentrantLockDemo" />
-        <item itemvalue="Application.XmlApplication" />
-        <item itemvalue="Application.CasTest" />
-        <item itemvalue="Spring Boot.MongoDBApplication" />
-        <item itemvalue="Application.CollectTest" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
+        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -1110,14 +487,10 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3be88912-39e0-4074-9adf-7e4201dc1ad0" name="Default Changelist" comment="" />
-      <created>1636547725860</created>
+      <changelist id="0c3502a0-72dc-4fda-8ef7-34c8c9f47923" name="Default Changelist" comment="" />
+      <created>1604288200517</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< HEAD
-      <updated>1636547725860</updated>
-      <workItem from="1636547728226" duration="2294000" />
-=======
       <updated>1604288200517</updated>
       <workItem from="1604288204607" duration="1942000" />
       <workItem from="1604296529065" duration="21918000" />
@@ -1199,68 +572,20 @@
       <workItem from="1636937956505" duration="510000" />
       <workItem from="1636942063464" duration="55328000" />
       <workItem from="1637542232845" duration="6991000" />
-<<<<<<< HEAD
       <workItem from="1637733312670" duration="33089000" />
-      <workItem from="1638146604246" duration="26449000" />
-=======
-      <workItem from="1637733312670" duration="30304000" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
+      <workItem from="1638146604246" duration="93499000" />
+      <workItem from="1638434927938" duration="185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="611118000" />
-=======
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="2294000" />
+    <option name="totallyTimeSpent" value="678353000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="111" y="55" width="1821" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37024972" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21281216" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" weight="0.32995737" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-=======
-    <option name="totallyTimeSpent" value="581884000" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="120" y="7" width="1699" height="948" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.22086638" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.20783645" />
       <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.21428572" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1270,15 +595,15 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24841572" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39421967" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4057971" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.22297297" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.1732852" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.18567961" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.18394649" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
@@ -1288,15 +613,51 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24622531" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.35281146" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3524229" />
       <window_info anchor="right" id="ASM" order="6" weight="0.32889125" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" weight="0.32948717" />
       <window_info anchor="right" id="jclasslib" order="11" weight="0.3697858" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992272" visible="true" weight="0.1444563" />
+      <window_info id="Structure" order="1" sideWeight="0.5007728" side_tool="true" weight="0.21428572" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24940899" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.1615667" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3097143" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3256445" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.55490404" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3292964" />
+      <window_info anchor="right" id="ASM" order="6" weight="0.32889125" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" weight="0.32948717" />
+      <window_info anchor="right" id="jclasslib" order="11" weight="0.35074627" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1304,599 +665,52 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-<<<<<<< HEAD
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/main/java/com/yb/demo/WaitNotifyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-=======
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint type="java-line">
-          <condition expression="beanName.equals(&quot;testController&quot;)" language="JAVA" />
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.java</url>
-          <line>319</line>
-          <properties />
-          <option name="timeStamp" value="193" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <condition expression="beanName.equals(&quot;testController&quot;)" language="JAVA" />
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java</url>
-          <line>428</line>
-          <properties />
-          <option name="timeStamp" value="198" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.9.RELEASE/spring-aop-5.1.9.RELEASE-sources.jar!/org/springframework/aop/framework/autoproxy/AbstractAutoProxyCreator.java</url>
-          <line>296</line>
-          <properties />
-          <option name="timeStamp" value="199" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadLoaclTest.java</url>
-          <line>21</line>
-          <properties />
-          <option name="timeStamp" value="204" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/util/HashMap.java</url>
-          <line>755</line>
-          <properties />
-          <option name="timeStamp" value="221" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springboot_demo/forest_demo/src/main/java/com/yb/demo/controller/ForestController.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="226" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.9.RELEASE/spring-context-5.1.9.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java</url>
-          <line>405</line>
-          <properties />
-          <option name="timeStamp" value="228" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.9.RELEASE/spring-webmvc-5.1.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/AbstractMessageConverterMethodArgumentResolver.java</url>
-          <line>264</line>
-          <properties />
-          <option name="timeStamp" value="231" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="234" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-    </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="breakpointCondition">
-      <expression>
-        <expression-string>n==4</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>n==3</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>beanName.equals(&quot;testController&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>basename.equals(&quot;aB&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="watch">
-      <expression>
-        <expression-string>table[42].next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table[38].next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table[]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table[10].next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table[5].next</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>table[5]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>readerShouldBlock()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getExclusiveOwnerThread()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>&quot;a&quot; == null</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>getValidators()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>ResponseEntity.ok(&quot;success&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>myClient.getTest()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>p.hash == hash</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>p.hash</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>(p = tab[i = (n - 1) &amp; hash])</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Unsafe.class" />
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="115" column="36" lean-forward="true" selection-start-line="115" selection-start-column="36" selection-end-line="115" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ThreadSleepTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/com/sun/org/apache/xpath/internal/operations/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="299">
-          <caret line="187" selection-start-line="187" selection-end-line="187" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-=======
-        <state relative-caret-position="177">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/function/Consumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Set.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="84" column="38" selection-start-line="84" selection-start-column="38" selection-end-line="84" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ListTest.java" />
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="819" column="16" selection-start-line="819" selection-start-column="16" selection-end-line="819" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/AbstractCollection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="292" column="27" selection-start-line="292" selection-start-column="27" selection-end-line="292" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56275">
-          <caret line="2328" column="49" selection-start-line="2328" selection-start-column="44" selection-end-line="2328" selection-end-column="49" />
-          <folding>
-            <element signature="e#117893#117894#0" expanded="true" />
-            <element signature="e#117955#117956#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CollectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="73" column="45" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5925">
-          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54875">
-          <caret line="2396" selection-start-line="2396" selection-end-line="2396" />
-          <folding>
-            <element signature="e#97058#97059#0" expanded="true" />
-            <element signature="e#97129#97130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Vector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26175">
-          <caret line="1117" column="20" selection-start-line="1117" selection-start-column="20" selection-end-line="1117" selection-end-column="20" />
-          <folding>
-            <element signature="e#5671#5672#0" expanded="true" />
-            <element signature="e#5695#5696#0" expanded="true" />
-            <element signature="e#30158#30159#0" expanded="true" />
-            <element signature="e#30197#30198#0" expanded="true" />
-            <element signature="e#43292#43293#0" expanded="true" />
-            <element signature="e#43324#43325#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/filecut_demo/src/main/java/com/yb/demo/FileCutUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="73" column="54" selection-start-line="73" selection-start-column="54" selection-end-line="73" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93150">
-          <caret line="3797" column="32" selection-start-line="3797" selection-start-column="32" selection-end-line="3797" selection-end-column="32" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25175">
-          <caret line="1077" column="24" selection-start-line="1077" selection-start-column="24" selection-end-line="1077" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13875">
-          <caret line="600" column="28" selection-start-line="600" selection-start-column="28" selection-end-line="600" selection-end-column="28" />
-          <folding>
-            <element signature="e#5343#5344#0" expanded="true" />
-            <element signature="e#5400#5401#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-          <folding>
-            <element signature="e#2496#2497#0" expanded="true" />
-            <element signature="e#2561#2562#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="523" selection-start-line="523" selection-end-line="523" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-            <element signature="e#31007#31008#0" expanded="true" />
-            <element signature="e#31039#31040#0" expanded="true" />
-            <element signature="e#31382#31383#0" expanded="true" />
-            <element signature="e#31427#31428#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/Tag.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/entity/ImageEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.10.RELEASE/spring-data-mongodb-2.1.10.RELEASE.jar!/org/springframework/data/mongodb/core/query/Query.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/2.1.10.RELEASE/spring-data-mongodb-2.1.10.RELEASE.jar!/org/springframework/data/mongodb/core/MongoOperations.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="273" column="31" selection-start-line="273" selection-start-column="31" selection-end-line="273" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/src/main/java/com/yb/demo/MongoDBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="68" column="51" lean-forward="true" selection-start-line="68" selection-start-column="51" selection-end-line="68" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/VolatileTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="586">
-          <caret line="85" column="21" selection-start-line="57" selection-start-column="6" selection-end-line="85" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/17.0/guava-17.0-sources.jar!/com/google/common/util/concurrent/CycleDetectingLockFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="981" column="5" selection-start-line="981" selection-start-column="5" selection-end-line="981" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="28" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml_demo/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
-          <folding>
-            <element signature="e#1663#1664#0" expanded="true" />
-            <element signature="e#1708#1709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CasTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="83" column="41" selection-start-line="83" selection-start-column="41" selection-end-line="83" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="2064" column="17" selection-start-line="2064" selection-start-column="17" selection-end-line="2064" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantReadWriteLock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="739">
           <caret line="941" column="20" selection-start-line="941" selection-start-column="20" selection-end-line="941" selection-end-column="20" />
-          <folding>
-            <element signature="e#27298#27299#0" expanded="true" />
-            <element signature="e#27343#27344#0" expanded="true" />
-            <element signature="e#35675#35676#0" expanded="true" />
-            <element signature="e#35714#35715#0" expanded="true" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
-          </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
+    <entry file="uml://JAVA/java.util.concurrent.locks.ReentrantLock.Sync">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.util.concurrent.locks.ReentrantLock.Sync</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">java.util.concurrent.locks.AbstractQueuedSynchronizer</node>
+            <node x="-200.0" y="89.0">java.util.concurrent.locks.ReentrantLock</node>
+            <node x="71.0" y="80.0">java.util.concurrent.locks.ReentrantLock.Sync</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="java.util.concurrent.locks.ReentrantLock.Sync" target="java.util.concurrent.locks.AbstractQueuedSynchronizer">
+              <point x="0.0" y="-15.0" />
+              <point x="0.0" y="15.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-347.0" y="97.0" />
+          <SelectedNodes>
+            <node>java.util.concurrent.locks.ReentrantLock.Sync</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xml_demo/src/main/java/com/yb/demo/XmlApplication.java">
-=======
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/Thread100Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/ThreadABCDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread_dmmo/src/java/com/yb/demo/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
-=======
-    <entry file="file://$PROJECT_DIR$/mongoDB_demo/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
-          <caret line="33" column="76" lean-forward="true" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="33" column="76" selection-start-line="33" selection-start-column="76" selection-end-line="33" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml">
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractOwnableSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="430">
+          <caret line="72" column="25" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1907,16 +721,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Thread.java">
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="945" column="26" selection-start-line="945" selection-start-column="26" selection-end-line="945" selection-end-column="26" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-            <element signature="e#36709#36710#0" expanded="true" />
-            <element signature="e#36767#36768#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="208" column="19" lean-forward="true" selection-start-line="208" selection-start-column="19" selection-end-line="208" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xml_demo/src/main/resources/img_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1927,39 +749,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/ReentrantLockDemo.java">
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/lang/Thread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="212">
+          <caret line="945" column="26" selection-start-line="945" selection-start-column="26" selection-end-line="945" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/ReentrantLock.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="208" column="17" lean-forward="true" selection-start-line="208" selection-start-column="17" selection-end-line="208" selection-end-column="17" />
-          <folding>
-            <element signature="e#6849#6850#0" expanded="true" />
-            <element signature="e#6907#6908#0" expanded="true" />
-            <element signature="e#9117#9118#0" expanded="true" />
-            <element signature="e#9144#9145#0" expanded="true" />
-            <element signature="e#15850#15851#0" expanded="true" />
-            <element signature="e#15881#15882#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="377">
+          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2243">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="459">
-          <caret line="871" column="13" lean-forward="true" selection-start-line="871" selection-start-column="13" selection-end-line="871" selection-end-column="13" />
+        <state relative-caret-position="23650">
+          <caret line="991" column="19" lean-forward="true" selection-start-line="991" selection-start-column="19" selection-end-line="991" selection-end-column="19" />
           <folding>
             <element signature="e#22675#22676#0" expanded="true" />
             <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22933#22934#0" expanded="true" />
+            <element signature="e#22965#22966#0" expanded="true" />
             <element signature="e#32644#32645#0" expanded="true" />
             <element signature="e#32694#32695#0" expanded="true" />
             <element signature="e#41392#41393#0" expanded="true" />
@@ -1968,64 +787,79 @@
             <element signature="e#42619#42620#0" expanded="true" />
             <element signature="e#44444#44445#0" expanded="true" />
             <element signature="e#44501#44502#0" expanded="true" />
+            <element signature="e#45599#45600#0" expanded="true" />
+            <element signature="e#45656#45657#0" expanded="true" />
           </folding>
-=======
-        <state relative-caret-position="224">
-          <caret line="26" column="36" lean-forward="true" selection-start-line="26" selection-start-column="36" selection-end-line="31" selection-end-column="28" />
->>>>>>> 43c16eded1f77f84949b87d8c00bf0a45cdf7c4b
->>>>>>> 2504bb4b75fc3e19f8a4814b5d761c4510f4a25d
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/SingletonDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="9" selection-start-line="16" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/concurrent_demo/src/main/java/com/yb/demo/CyclicBarrierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3350">
+          <caret line="171" column="22" selection-start-line="171" selection-start-column="22" selection-end-line="171" selection-end-column="22" />
+          <folding>
+            <element signature="e#5229#5230#0" expanded="true" />
+            <element signature="e#5268#5269#0" expanded="true" />
+            <element signature="e#5391#5392#0" expanded="true" />
+            <element signature="e#5448#5449#0" expanded="true" />
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jdksource/src/com/yb/source/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="237" column="56" selection-start-line="237" selection-start-column="56" selection-end-line="237" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
