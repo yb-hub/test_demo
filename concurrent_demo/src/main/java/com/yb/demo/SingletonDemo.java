@@ -1,5 +1,7 @@
 package com.yb.demo;
 
+import java.util.concurrent.CountDownLatch;
+
 /**
  * @author yb
  * @description DCL（double check lock 双端检索）
